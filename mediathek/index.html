@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="de-de">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>endoscout  | Mediathek</title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width,user-scalable=no">
+  <link rel="stylesheet" href="https://endoscout.github.io/lib/semantic.min.css">
+  <link rel="stylesheet" href="https://endoscout.github.io/styles.css">
+  <script type="text/javascript" src="https://endoscout.github.io/lib/jquery.min.js"></script>
+</head>
+
+<body>
+   
+<header>
+  <div class="ui container ">
+    <div class="logow">
+      <a href="/" id="logolink">
+        <img class="logo" src="https://res.cloudinary.com/b-coding/image/fetch/c_scale,h_200,f_auto/https://endoscout.github.io/uploads/2018/08/06/koerperkonzepte_logo.png" />
+      </a>
+    </div>
+    <div id="headermenuw">
+      <div id="headermenu" class="mobinit">
+        
+        <a class="headermenuitem "
+          href="/" title="Home">Home</a>
+        
+      </div>
+    </div>
+    <div id="mnt">
+      <button class="ui basic icon button" id="mntbt">
+        <i class="bars icon"></i>
+      </button>
+    </div>
+  </div>
+</header>
+  <main role="main">
+    
+<div class="subpage">
+  <div class="ui container standard">
+    <h1>Mediathek</h1>
+    <div class="content">
+      
+    </div>
+  </div>
+</div>
+
+  </main>
+  
+<footer class="ui container fluid ">
+  <div class="footermenu ui container">
+     
+    <a href="/datenschutz/" title="Datenschutz">Datenschutz</a>
+    
+    <a href="/impressum/" title="Impressum">Impressum</a>
+    
+    <a href="/haftungsausschluss/" title="Haftungsausschluss">Haftungsausschluss</a>
+    
+  </div>
+</footer>
+
+  <script type="text/javascript" src="https://endoscout.github.io/lib/semantic.min.js"></script>
+  <script type="text/javascript" src="https://endoscout.github.io/lib/slippry.min.js"></script>
+  <link rel="stylesheet" href="https://endoscout.github.io/lib/slippry.min.css">
+  <script type="text/javascript">
+    $(function () {
+      $('#slider').slippry({
+        
+        slippryWrapper: '<div class="sy-box topslider" />', 
+        elements: 'li', 
+
+        
+        adaptiveHeight: false, 
+        captions: false,
+        loop: true,
+        
+        pager: false,
+        start: 2,
+        
+        slideMargin: 0, 
+        useCSS: true,
+        transition: 'horizontal',
+        pause: 3000,
+        speed: 650,
+        
+        autoDirection: 'next'
+      });
+      $('.ui.embed').embed();
+      $('#mntbt').click(function () {
+        if ($('#headermenu').hasClass('mobvis')) {
+          $('#headermenu').removeClass('mobvis');
+        } else {
+          $('#headermenu').addClass('mobvis');
+        }
+
+      });
+    });
+  </script>
+</body>
+
+</html>
