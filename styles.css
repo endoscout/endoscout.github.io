@@ -33,9 +33,20 @@ header #logotel .adrtel {
   justify-content: flex-end;
 }
 header #logotel .adrtel > div {
+  padding: 0 1rem;
+  margin: 0 1rem 0 0;
+  border-right: 1px solid #f39200;
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
+}
+header #logotel .adrtel > div:last-child {
+  margin: 0;
+  padding-right: 0;
+  border: none;
+}
+header #logotel .adrtel > div img {
+  margin: 0 1rem 0 0;
 }
 header #mnt {
   display: none;

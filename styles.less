@@ -38,9 +38,20 @@ header{
       display:flex;
       justify-content: flex-end;
       > div{
+        padding: 0 1rem;
+        margin: 0 1rem 0 0;
+        border-right:1px solid @orange;
+        &:last-child{
+          margin:0;
+          padding-right:0;
+          border:none;
+        }
         display:flex;
         justify-content: space-between;
-        align-items:flex-start;
+        align-items:center;
+        img{
+          margin: 0 1rem 0 0;
+        }
       }
     }
   }
