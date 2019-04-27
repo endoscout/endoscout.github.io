@@ -8,22 +8,38 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width,user-scalable=no">
+  <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/a6dd5cea-89be-4fe8-895f-51c13e3e4aea.css"/>
   <link rel="stylesheet" href="https://endoscout.github.io/lib/semantic.min.css">
   <link rel="stylesheet" href="https://endoscout.github.io/styles.css">
   <script type="text/javascript" src="https://endoscout.github.io/lib/jquery.min.js"></script>
+  <script type="text/javascript" src="https://endoscout.github.io/lib/cloudinary-core-shrinkwrap.min.js"></script>
 </head>
 
 <body>
    
 <header>
   <div class="ui container ">
-    <div class="logow">
-      <a href="/" id="logolink">
-        <img class="logo" src="https://res.cloudinary.com/b-coding/image/fetch/c_scale,h_200,f_auto/https://endoscout.github.io/uploads/endoscout_logo.png" />
-      </a>
+    <div id="logotel">
+      <div class="logow">
+        <a href="/" id="logolink">
+          <img class="logo" src="https://res.cloudinary.com/b-coding/image/fetch/c_scale,h_80,q_100/https://endoscout.github.io/uploads/endoscout_logo.png" />
+        </a>
+      </div>
+      <div class="adrtel">
+        <div>
+          <img src="https://res.cloudinary.com/b-coding/image/fetch/c_scale,h_30,q_100/https://endoscout.github.io/uploads/tel_icon.png" />
+          <div><p><strong>+49 (761) 458948-0</strong></p></div>
+        </div>
+        <div>
+          <img src="https://res.cloudinary.com/b-coding/image/fetch/c_scale,h_50,q_100/https://endoscout.github.io/uploads/ort_icon.png" />
+          <div><p>endoscout GmbH <br>Deichelweiherweg 1<br>79102 Freiburg</p></div>
+        </div>
+      </div>
     </div>
+  </div>
+  <div>
     <div id="headermenuw">
-      <div id="headermenu" class="mobinit">
+      <div id="headermenu" class="mobinit ui container">
         
         <a class="headermenuitem "
           href="/" title="Home">Home</a>
@@ -32,7 +48,7 @@
           href="/produkte/" title="Produkte">Produkte</a>
         
         <a class="headermenuitem "
-          href="/%C3%BCber-uns/" title="Über uns">Über<br />uns</a>
+          href="/%C3%BCber-uns/" title="Über uns">Über uns</a>
         
         <a class="headermenuitem "
           href="/mediathek/" title="Mediathek">Mediathek</a>
@@ -101,13 +117,13 @@
         captions: false,
         loop: true,
         
-        pager: false,
-        start: 2,
+        pager: true,
+        start: 1,
         
         slideMargin: 0, 
         useCSS: true,
         transition: 'horizontal',
-        pause: 3000,
+        pause: 30000,
         speed: 650,
         
         autoDirection: 'next'
@@ -123,6 +139,10 @@
       });
     });
   </script>
+  <script type="text/javascript">
+    var cl = cloudinary.Cloudinary.new({cloud_name: "b-coding"}); 
+    cl.responsive();
+</script>
 </body>
 
 </html>

@@ -1,58 +1,41 @@
 body {
-  font-family: Arial, Helvetica, sans-serif, serif;
-  color: #414141;
+  font-family: 'Century Gothic W01', Arial, Helvetica, sans-serif, serif;
+  color: #671d47;
   background: white;
 }
 body *:not(i) {
-  font-family: Arial, Helvetica, sans-serif important;
+  font-family: 'Century Gothic W01', Arial, Helvetica, sans-serif important;
 }
 h1,
 h2,
 h3,
 h4 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Century Gothic W01', Arial, Helvetica, sans-serif;
 }
 a {
-  color: #b2232b;
+  color: #671d47;
 }
 blockquote {
   text-align: center;
   font-style: italic;
   font-size: 1.8rem;
 }
-header {
-  padding: 2vh 0;
-  border-bottom: 1px solid #5c5c5c;
+header #headermenuw {
+  background: #bfdee3;
 }
-header .logo {
-  max-height: 11vh;
-}
-header .container {
-  display: flex!important;
+header #logotel {
+  padding: 1rem 0;
+  display: flex;
   justify-content: space-between;
 }
-@media (max-width: 990px) {
-  header .container {
-    flex-wrap: wrap;
-  }
-}
-header .logow {
-  display: inline-block;
-  flex-shrink: 1;
-}
-@media (max-width: 1200px) {
-  header {
-    padding: 1vh 0;
-  }
-  header .logo {
-    height: 80px;
-  }
-}
-header #headermenuw {
+header #logotel .adrtel {
   display: flex;
-  flex-direction: column;
   justify-content: flex-end;
-  flex-grow: 1;
+}
+header #logotel .adrtel > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 header #mnt {
   display: none;
@@ -67,14 +50,8 @@ header #mnt {
 }
 header #headermenu {
   display: flex;
-  justify-content: flex-end;
-  padding-bottom: 1rem;
-  padding-left: 4rem;
-}
-@media (max-width: 1280px) {
-  header #headermenu {
-    padding-left: 2rem;
-  }
+  justify-content: flex-start;
+  padding: 0.75em 0;
 }
 @media (max-width: 720px) {
   header #headermenu {
@@ -97,38 +74,30 @@ header #headermenu {
   }
 }
 header #headermenu .headermenuitem {
-  color: #5c5c5c;
+  flex: 0 1 auto;
+  color: #671d47;
   text-transform: uppercase;
   text-align: center;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1rem;
-  padding: 0 1rem;
-  border-right: 1px solid #5c5c5c;
+  padding: 0 2rem;
+  border-right: 1px solid #f39200;
+  word-wrap: none;
+  white-space: nowrap;
 }
 header #headermenu .headermenuitem.active {
-  color: #b2232b;
+  color: #671d47;
   text-decoration: underline;
+}
+header #headermenu .headermenuitem:first-child {
+  padding-left: 0!important;
 }
 header #headermenu .headermenuitem:last-child {
   border: none;
 }
-@media (max-width: 1280px) {
-  header #headermenu .headermenuitem {
-    padding: 0 0.5rem;
-    margin-top: 1rem;
-  }
-}
-@media (max-width: 720px) {
-  header #headermenu .headermenuitem {
-    border: none;
-    text-transform: none;
-    text-align: left;
-    width: 25%;
-  }
-}
 footer {
   display: block;
-  background: #b2232b;
+  background: #671d47;
 }
 footer.ui.container {
   margin: 1rem 0 0 0!important;
