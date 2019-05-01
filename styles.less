@@ -93,7 +93,7 @@ header{
   #headermenu{
     display:flex;
     justify-content: flex-start;
-    padding:1em 0;
+    padding:0;
     @media (max-width: 720px){
       justify-content: flex-start;
       flex-wrap: wrap;
@@ -118,21 +118,59 @@ header{
       text-transform:uppercase;
       text-align:center;
       font-size:1rem;
-      line-height:1rem;
+      line-height:3rem;
+      display:flex;
+      margin-left:-1px;
       &.active{
         color:@rot;
         text-decoration: underline;
       }
-      padding:0 2rem;
-      border-right:1px solid @orange_hell;
-      &:first-child{
-        padding-left:0!important;
+      color:white!important;
+      a{
+        span{
+          padding: 0 1em;
+          border-right:1px solid @orange_hell;
+        }
       }
-      &:last-child{
-        border:none;
-      }
+      
       word-wrap: none;
       white-space: nowrap;
+      position:relative;
+      .sub-menu{
+        width:0;
+        height:0;
+        overflow:hidden;
+        position:absolute;
+        top:3rem;
+        left:0;
+        margin-top:-1px;
+        z-index:99;
+      }
+      &:hover{
+        background:@orange;
+        color:white!important;
+        a{
+          color:white!important;
+        }
+        .sub-menu{
+          width:auto;
+          height:auto;
+          background:@orange_hell;
+          display:flex;
+          flex-direction: column;
+          .sub-menu-item{
+            display:flex;
+            padding:0 1em;
+            &:hover{
+              background:@orange;
+            }
+            a{
+              width:100%;
+              text-align:left;
+            }
+          }
+        }
+      }
     }
   }
 }

@@ -83,7 +83,7 @@ header #mnt {
 header #headermenu {
   display: flex;
   justify-content: flex-start;
-  padding: 1em 0;
+  padding: 0;
 }
 @media (max-width: 720px) {
   header #headermenu {
@@ -111,21 +111,56 @@ header #headermenu .headermenuitem {
   text-transform: uppercase;
   text-align: center;
   font-size: 1rem;
-  line-height: 1rem;
-  padding: 0 2rem;
-  border-right: 1px solid #f8aa23;
+  line-height: 3rem;
+  display: flex;
+  margin-left: -1px;
+  color: white!important;
   word-wrap: none;
   white-space: nowrap;
+  position: relative;
 }
 header #headermenu .headermenuitem.active {
   color: #671d47;
   text-decoration: underline;
 }
-header #headermenu .headermenuitem:first-child {
-  padding-left: 0!important;
+header #headermenu .headermenuitem a span {
+  padding: 0 1em;
+  border-right: 1px solid #f8aa23;
 }
-header #headermenu .headermenuitem:last-child {
-  border: none;
+header #headermenu .headermenuitem .sub-menu {
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 3rem;
+  left: 0;
+  margin-top: -1px;
+  z-index: 99;
+}
+header #headermenu .headermenuitem:hover {
+  background: #f39200;
+  color: white!important;
+}
+header #headermenu .headermenuitem:hover a {
+  color: white!important;
+}
+header #headermenu .headermenuitem:hover .sub-menu {
+  width: auto;
+  height: auto;
+  background: #f8aa23;
+  display: flex;
+  flex-direction: column;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item {
+  display: flex;
+  padding: 0 1em;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover {
+  background: #f39200;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item a {
+  width: 100%;
+  text-align: left;
 }
 footer {
   display: block;
