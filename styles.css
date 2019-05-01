@@ -173,15 +173,47 @@ header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item a {
 }
 header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu {
   display: block;
-  right: -100%;
-  width: 100%;
+  left: 100%;
   top: 0;
+  width: 100%;
   position: absolute;
+  background: #f39200;
+  display: flex;
+  flex-direction: column;
 }
 header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu .sub-sub-menu-item {
   text-transform: none;
-  background: #f8aa23;
+  background: #f39200;
   font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu .sub-sub-menu-item a {
+  white-space: normal;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu .sub-sub-menu-item > a {
+  padding: 1em 1em 0em 1em;
+  line-height: 1.2em;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu .sub-sub-menu-item .sub-sub-menu-list {
+  display: flex;
+  flex-direction: column;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu .sub-sub-menu-item .sub-sub-menu-list-item a {
+  font-weight: normal;
+  padding: 0.5em 1em;
+  width: 100%;
+  line-height: 1.2em;
+  font-size: 0.9rem;
+  border: none;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu .sub-sub-menu-item .sub-sub-menu-list-item a span {
+  border: none!important;
+}
+header #headermenu .headermenuitem:hover .sub-menu .sub-menu-item:hover .sub-sub-menu .sub-sub-menu-item .sub-sub-menu-list-item a span:before {
+  margin: 0.1rem 0.5rem 0 0;
+  content: '-';
 }
 footer {
   display: block;

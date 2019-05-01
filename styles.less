@@ -180,14 +180,48 @@ header{
             &:hover{
               .sub-sub-menu{
                 display:block;
-                right:-100%;
-                width:100%;
+                left:100%;
                 top:0;
+                width:100%;
                 position:absolute;
+                background:@orange;
+                display:flex;
+                flex-direction:column;
                 .sub-sub-menu-item{
                   text-transform:none;
-                  background:@orange_hell;
+                  background:@orange;
                   font-weight:bold;
+                  display:flex;
+                  flex-direction:column;
+                  justify-content: flex-start;
+                  a{
+                    white-space: normal;
+                  }
+                  > a{
+                    padding:1em 1em 0em 1em;
+                    line-height:1.2em;
+                  }
+                  .sub-sub-menu-list{
+                    display:flex;
+                    flex-direction:column;
+                  }
+                  .sub-sub-menu-list-item{
+                    a{
+                      font-weight:normal;
+                      padding:0.5em 1em;
+                      width:100%;
+                      line-height:1.2em;
+                      font-size:0.9rem;
+                      border:none;
+                      span{
+                        border:none!important;
+                      }
+                      span:before{
+                        margin: 0.1rem 0.5rem 0 0;
+                        content:'-';
+                      }
+                    }
+                  }
                 }
               }
             }
