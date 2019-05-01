@@ -137,15 +137,25 @@ footer.ui.container {
 footer .footermenu {
   display: flex!important;
   justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
 }
 footer .footermenu a {
   color: white!important;
-  padding: 1rem;
+  padding: 0 1rem 0 0;
+  margin: 0 1rem 0 0;
+  border-right: 1px solid white;
+  line-height: 1rem;
 }
 @media (max-width: 767px) {
   footer .footermenu a {
     padding: 1rem 0.5rem;
   }
+}
+footer .footermenu a:last-child {
+  padding: 0;
+  margin: 0;
+  border: none;
 }
 .morebutton {
   margin: 1rem 0;
@@ -171,7 +181,7 @@ footer .footermenu a {
   background: #671d47;
 }
 .morebutton.rot .txt {
-  background: #671d47;
+  background: #7e2559;
 }
 .c50i50 {
   width: 100%;

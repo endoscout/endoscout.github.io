@@ -2,6 +2,7 @@
 @mint:rgb(191,222,227);
 @mint_hell:rgb(174,204,208);
 @rot:rgb(103,29,71);
+@rot_hell:rgb(126,37,89);
 @orange:rgb(243,146,0);
 @orange_hell:rgb(248,170,35);
 @grau:rgb(233,233,233);
@@ -144,11 +145,21 @@ footer{
   .footermenu{
     display:flex!important;
     justify-content: center;
+    align-items:center;
+    padding:1rem 0;
     a{
       color:white!important;
-      padding:1rem;
+      padding: 0 1rem 0 0;
+      margin: 0 1rem 0 0;
       @media (max-width: 767px){
         padding:1rem 0.5rem;
+      }
+      border-right:1px solid white;
+      line-height:1rem;
+      &:last-child{
+        padding:0;
+        margin:0;
+        border:none;
       }
     }
   }
@@ -177,7 +188,7 @@ footer{
       background:@rot;
     }
     .txt{
-      background: @rot;
+      background: @rot_hell;
     }
   }
 }
