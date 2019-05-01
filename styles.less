@@ -145,6 +145,11 @@ header{
         left:0;
         margin-top:-1px;
         z-index:99;
+        .sub-sub-menu{
+          display:none;
+          position:absolute;
+          right:0;
+        }
       }
       &:hover{
         background:@orange;
@@ -156,17 +161,35 @@ header{
           width:auto;
           height:auto;
           background:@orange_hell;
+          overflow: visible;
           display:flex;
           flex-direction: column;
+          align-items:flex-start;
           .sub-menu-item{
-            display:flex;
-            padding:0 1em;
+            position:relative;
+            text-align:left;
+            width:100%;
             &:hover{
               background:@orange;
             }
             a{
               width:100%;
               text-align:left;
+              padding:1em;
+            }
+            &:hover{
+              .sub-sub-menu{
+                display:block;
+                right:-100%;
+                width:100%;
+                top:0;
+                position:absolute;
+                .sub-sub-menu-item{
+                  text-transform:none;
+                  background:@orange_hell;
+                  font-weight:bold;
+                }
+              }
             }
           }
         }
