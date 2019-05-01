@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Periphere Gefäßtherapie</title>
+      <title>Koronare Gefäßtherapie</title>
       <link>https://endoscout.github.io/products/koronare-gef%C3%A4%C3%9Ftherapie/</link>
       <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
       
@@ -127,20 +127,11 @@ A systematic review and meta analysis of randomized controlled trials (RCTs) eva
     </item>
     
     <item>
-      <title>Periphere Gefäßtherapie</title>
-      <link>https://endoscout.github.io/pages_products/periphere-gef%C3%A4%C3%9Ftherapie/</link>
-      <pubDate>Sat, 13 Apr 2019 08:04:37 +0200</pubDate>
-      
-      <guid>https://endoscout.github.io/pages_products/periphere-gef%C3%A4%C3%9Ftherapie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Produkte</title>
-      <link>https://endoscout.github.io/pages_products/produkte/</link>
+      <link>https://endoscout.github.io/products/produkte/</link>
       <pubDate>Sat, 13 Apr 2019 08:03:46 +0200</pubDate>
       
-      <guid>https://endoscout.github.io/pages_products/produkte/</guid>
+      <guid>https://endoscout.github.io/products/produkte/</guid>
       <description></description>
     </item>
     
@@ -224,15 +215,6 @@ A systematic review and meta analysis of randomized controlled trials (RCTs) eva
       <guid>https://endoscout.github.io/impressum/</guid>
       <description>Design / Konzept
 elvira.beck | design</description>
-    </item>
-    
-    <item>
-      <title>Koronare Gefäßtherapie</title>
-      <link>https://endoscout.github.io/pages_products/koronare-gef%C3%A4%C3%9Ftherapie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://endoscout.github.io/pages_products/koronare-gef%C3%A4%C3%9Ftherapie/</guid>
-      <description></description>
     </item>
     
   </channel>
