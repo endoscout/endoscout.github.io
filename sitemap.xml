@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://endoscout.github.io/events/</loc>
+    <lastmod>2019-04-13T11:57:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://endoscout.github.io/</loc>
+    <lastmod>2019-04-13T11:57:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://endoscout.github.io/produkte/kategorie-koronare-gef%C3%A4%C3%9Ftherapie/</loc>
     <lastmod>2019-04-13T11:57:18+02:00</lastmod>
   </url>
@@ -10,6 +21,12 @@
   <url>
     <loc>https://endoscout.github.io/produkte/kategorie-periphere-gef%C3%A4%C3%9Ftherapie/</loc>
     <lastmod>2019-04-13T11:57:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://endoscout.github.io/produkte/</loc>
+    <lastmod>2019-04-13T11:57:18+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -30,6 +47,12 @@
   <url>
     <loc>https://endoscout.github.io/news/risk-of-death-following-application/</loc>
     <lastmod>2019-04-13T10:57:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://endoscout.github.io/news/</loc>
+    <lastmod>2019-04-13T10:57:26+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -65,6 +88,12 @@
   <url>
     <loc>https://endoscout.github.io/produkte/produkte/</loc>
     <lastmod>2019-04-13T08:03:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://endoscout.github.io/global/</loc>
+    <lastmod>2018-07-10T18:19:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -105,40 +134,11 @@
   </url>
   
   <url>
-    <loc>https://endoscout.github.io/events/</loc>
-    <lastmod>2019-04-13T11:57:18+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://endoscout.github.io/events/goeast-conference/</loc>
   </url>
   
   <url>
-    <loc>https://endoscout.github.io/global/</loc>
-    <lastmod>2018-07-10T18:19:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://endoscout.github.io/</loc>
-    <lastmod>2019-04-13T11:57:18+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://endoscout.github.io/impressum/</loc>
-  </url>
-  
-  <url>
-    <loc>https://endoscout.github.io/news/</loc>
-    <lastmod>2019-04-13T10:57:26+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://endoscout.github.io/produkte/</loc>
-    <lastmod>2019-04-13T11:57:18+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
