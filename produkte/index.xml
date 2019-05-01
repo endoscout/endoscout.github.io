@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on endoscout</title>
-    <link>https://endoscout.github.io/products/</link>
-    <description>Recent content in Products on endoscout</description>
+    <title>Produktes on endoscout</title>
+    <link>https://endoscout.github.io/produkte/</link>
+    <description>Recent content in Produktes on endoscout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 13 Apr 2019 11:57:18 +0200</lastBuildDate>
     
-	<atom:link href="https://endoscout.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://endoscout.github.io/produkte/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Koronare Gefäßtherapie</title>
-      <link>https://endoscout.github.io/products/koronare-gef%C3%A4%C3%9Ftherapie/</link>
+      <link>https://endoscout.github.io/produkte/koronare-gef%C3%A4%C3%9Ftherapie/</link>
       <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
       
-      <guid>https://endoscout.github.io/products/koronare-gef%C3%A4%C3%9Ftherapie/</guid>
+      <guid>https://endoscout.github.io/produkte/koronare-gef%C3%A4%C3%9Ftherapie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Periphere Gefäßtherapie</title>
-      <link>https://endoscout.github.io/products/periphere-gef%C3%A4%C3%9Ftherapie/</link>
+      <link>https://endoscout.github.io/produkte/periphere-gef%C3%A4%C3%9Ftherapie/</link>
       <pubDate>Sat, 13 Apr 2019 11:57:18 +0200</pubDate>
       
-      <guid>https://endoscout.github.io/products/periphere-gef%C3%A4%C3%9Ftherapie/</guid>
+      <guid>https://endoscout.github.io/produkte/periphere-gef%C3%A4%C3%9Ftherapie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Produkte</title>
-      <link>https://endoscout.github.io/products/produkte/</link>
+      <link>https://endoscout.github.io/produkte/produkte/</link>
       <pubDate>Sat, 13 Apr 2019 08:03:46 +0200</pubDate>
       
-      <guid>https://endoscout.github.io/products/produkte/</guid>
+      <guid>https://endoscout.github.io/produkte/produkte/</guid>
       <description></description>
     </item>
     
