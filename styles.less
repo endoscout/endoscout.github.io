@@ -1,11 +1,12 @@
 @fontcolor:rgb(103,29,71);
-@mint:rgb(191,222,227);
-@mint_hell:rgb(174,204,208);
+@mint:rgb(174,204,208);
+@mint_hell:rgb(191,222,227);
 @rot:rgb(103,29,71);
 @rot_hell:rgb(126,37,89);
 @orange:rgb(243,146,0);
 @orange_hell:rgb(248,170,35);
 @grau:rgb(233,233,233);
+@content: rgb(30,30,30);
 
 
 body{
@@ -121,6 +122,9 @@ header{
       line-height:3rem;
       display:flex;
       margin-left:-1px;
+      &:first-child{
+        margin-left:-1rem;
+      }
       &.active{
         color:@rot;
         text-decoration: underline;
@@ -483,5 +487,126 @@ footer{
     margin:0 0 1rem 0;
     font-size:2rem;
     text-transform:uppercase;
+  }
+}
+#breadcrumbs{
+  background:@mint_hell;
+  .container{
+    padding:0;
+    a{
+      line-height:2rem;
+      font-size:0.8rem;
+      &:after{
+        content:'>>';
+        margin:0 0.75rem 0 1rem;
+      }
+      &:last-child{
+        &:after{
+          content:'';
+        }
+      }
+    }
+  }
+}
+.subpage{
+  &.product{
+    > .container{
+      padding:1rem 0;
+    }
+    .psec{
+      padding:3rem 2rem;
+      border-bottom:2px solid @rot;
+      &:last-child{
+        border:none;
+      }
+      h3{
+        color:@orange;
+        font-size:1.8rem;
+        text-transform: uppercase;
+        margin: 0 0 1rem 0!important;
+      }
+      .content{
+        color:@content;
+        img{
+          max-width:100%;
+        }
+        ul{
+          padding:0;
+          li{
+            list-style-type: circle;
+            margin-left:1.2em;
+          }
+        }
+      }
+      .files{
+        display:flex;
+        flex-direction:column;
+        h4,h5{
+          margin:0;
+        }
+        h5{
+          font-size:1.1rem;
+          color:@content;
+          font-weight:normal;
+        }
+        > div{
+          padding:1rem 2rem;
+          display:flex;
+          justify-content: space-between;
+          > div{
+            display:flex;
+          justify-content: flex-start;
+          }
+          i{
+            font-size:3rem;
+            line-height:3rem;
+          }
+          .morebutton{
+            margin:0!important;
+            height:2rem;
+            line-height:1rem;
+          }
+          &:nth-child(even){
+            background:@grau;
+          }
+        }
+      }
+    }
+    .phc{
+      display:flex;
+      flex-direction:row;
+      justify-content: space-between;
+      >*{
+        width:50%;
+      }
+      .pimg{
+        background-size:cover;
+        background-position:center center;
+        min-height:200px;
+      }
+      .content{
+        background-color:@mint!important;
+        padding:2rem;
+        color:@content;
+        ul{
+          padding:0;
+          li{
+            list-style-type: circle;
+            margin-left:1.2em;
+          }
+        }
+      }
+      h1{
+        margin: 0 0 2rem;
+        color:@orange;
+        text-transform:uppercase;
+      }
+      h2{
+        margin:0;
+        color:@rot;
+        font-size:1.1rem;
+        font-weight:normal;
+      }
+    }
   }
 }
