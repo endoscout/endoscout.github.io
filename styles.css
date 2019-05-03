@@ -501,6 +501,10 @@ footer .footermenu a:last-child {
 #breadcrumbs .container a:last-child:after {
   content: '';
 }
+.subpage.productgroupslist .header {
+  margin: 1rem 0;
+  padding: 2rem;
+}
 .subpage.about > .container {
   padding: 1rem 0!important;
 }
