@@ -488,6 +488,15 @@ footer .footermenu a:last-child {
 #breadcrumbs .container a:last-child:after {
   content: '';
 }
+.subpage.about > .container {
+  padding: 1rem 0!important;
+}
+.subpage.about .c50i50 > * {
+  width: 34%!important;
+}
+.subpage.about .c50i50 > *:first-child {
+  width: 66%!important;
+}
 .subpage.product > .container {
   padding: 1rem 0;
 }
