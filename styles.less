@@ -324,15 +324,18 @@ footer{
     }
     ul{
       padding:0;
-      margin:0;
+      margin:0 0 1rem 0;
     }
     li{
       list-style-type:none;
       display:flex;
       flex-direction: row;
-      justify-content: flex-end;
-      p:after{
-        margin: 0.1rem 0 0 0.5rem;
+      justify-content: flex-start;
+      p{
+        padding-left:1em;
+      }
+      p:before{
+        margin: 0.1rem  0.5rem 0 -1em;
         content:'>';
       }
     }
@@ -522,12 +525,58 @@ footer{
       padding:1rem 0!important;
     }
     .c50i50{
+      margin:0 0 1rem 0;
+    }
+    .c50i50.c2313{
       > *{
         width:34%!important;
         &:first-child{
           width:66%!important;
         }
         
+      }
+    }
+    .c50i50.team{
+      > *{
+        width:100%;
+        .ct{
+          padding:0 2rem;
+          color:@content;
+          text-align:center;
+          img{
+            width:100%;
+          }
+        }
+        .ma{
+          display:flex;
+          justify-content: space-between;
+          padding: 0 2rem;
+          >*{
+            color:@content;
+            width:25%;
+            padding:0 1rem 0 0;
+            a{
+              color:@content;
+              &:hover{
+                color:@rot;
+              }
+            }
+            &:last-child{
+              padding:0;
+            }
+          }
+        }
+      }
+    }
+    .logos{
+      position:relative;
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      flex-wrap: wrap;
+      >*{
+        width:45%;
+        padding:20% 0 0 0;
       }
     }
   }
