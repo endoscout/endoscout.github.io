@@ -484,6 +484,17 @@ footer .footermenu a:last-child {
   font-size: 2rem;
   text-transform: uppercase;
 }
+#breadcrumbsInline a {
+  line-height: 2rem;
+  font-size: 0.8rem;
+}
+#breadcrumbsInline a:after {
+  content: '>>';
+  margin: 0 0.75rem 0 1rem;
+}
+#breadcrumbsInline a:last-child:after {
+  content: '';
+}
 #breadcrumbs {
   background: #bfdee3;
 }
@@ -504,6 +515,16 @@ footer .footermenu a:last-child {
 .subpage.productgroupslist .header {
   margin: 1rem 0;
   padding: 2rem;
+}
+.subpage.productgroupslist .header h1 {
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+.subpage.productgroupslist .pgroup {
+  background: #e9e9e9;
+}
+.subpage.productgroupslist .pgroup .img {
+  padding: 30% 0 0 0;
 }
 .subpage.about > .container {
   padding: 1rem 0!important;

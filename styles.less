@@ -500,6 +500,21 @@ footer{
     text-transform:uppercase;
   }
 }
+#breadcrumbsInline{
+  a{
+    line-height:2rem;
+    font-size:0.8rem;
+    &:after{
+      content:'>>';
+      margin:0 0.75rem 0 1rem;
+    }
+    &:last-child{
+      &:after{
+        content:'';
+      }
+    }
+  }
+}
 #breadcrumbs{
   background:@mint_hell;
   .container{
@@ -524,6 +539,16 @@ footer{
     .header{
       margin:1rem 0;
       padding:2rem;
+      h1{
+        text-transform:uppercase;
+        font-size:2rem;
+      }
+    }
+    .pgroup{
+      background:@grau;
+      .img{
+        padding:30% 0 0 0;
+      }
     }
   }
   &.about{
