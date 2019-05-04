@@ -504,6 +504,7 @@ footer{
   a{
     line-height:2rem;
     font-size:0.8rem;
+    color:inherit;
     &:after{
       content:'>>';
       margin:0 0.75rem 0 1rem;
@@ -538,16 +539,31 @@ footer{
   &.productgroupslist{
     .header{
       margin:1rem 0;
-      padding:2rem;
       h1{
         text-transform:uppercase;
         font-size:2rem;
+        margin:0;
+      }
+      .ct{
+        display:flex;
+        flex-direction:column;
+        justify-content: center;
+        padding:2rem;
       }
     }
     .pgroup{
       background:@grau;
       .img{
         padding:30% 0 0 0;
+      }
+      .titleAndLink{
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        padding:0.5rem 1rem;
+        h2{
+          margin:0;
+        }
       }
     }
   }

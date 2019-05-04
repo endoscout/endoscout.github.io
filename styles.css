@@ -487,6 +487,7 @@ footer .footermenu a:last-child {
 #breadcrumbsInline a {
   line-height: 2rem;
   font-size: 0.8rem;
+  color: inherit;
 }
 #breadcrumbsInline a:after {
   content: '>>';
@@ -514,17 +515,32 @@ footer .footermenu a:last-child {
 }
 .subpage.productgroupslist .header {
   margin: 1rem 0;
-  padding: 2rem;
 }
 .subpage.productgroupslist .header h1 {
   text-transform: uppercase;
   font-size: 2rem;
+  margin: 0;
+}
+.subpage.productgroupslist .header .ct {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
 }
 .subpage.productgroupslist .pgroup {
   background: #e9e9e9;
 }
 .subpage.productgroupslist .pgroup .img {
   padding: 30% 0 0 0;
+}
+.subpage.productgroupslist .pgroup .titleAndLink {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+}
+.subpage.productgroupslist .pgroup .titleAndLink h2 {
+  margin: 0;
 }
 .subpage.about > .container {
   padding: 1rem 0!important;
