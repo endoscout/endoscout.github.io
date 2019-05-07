@@ -394,6 +394,10 @@ footer .footermenu a:last-child {
 #home {
   padding: 1rem 0 0 0;
 }
+#home .pbereiche a {
+  color: inherit!important;
+  text-decoration: underline;
+}
 #home #slidercontainer,
 #home #infoblock_endoscout {
   margin: 0 0 1rem;
