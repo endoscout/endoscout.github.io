@@ -546,6 +546,15 @@ footer .footermenu a:last-child {
 .subpage.productgroupslist .pgroup .titleAndLink h2 {
   margin: 0;
 }
+.subpage.productgroupslist.landing .pgroup.idx0 {
+  background: #671d47;
+}
+.subpage.productgroupslist.landing .pgroup.idx0 h2 {
+  color: white;
+}
+.subpage.productgroupslist.landing .pgroup.idx1 {
+  background: #f39200;
+}
 .subpage.about > .container {
   padding: 1rem 0!important;
 }
