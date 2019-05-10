@@ -707,3 +707,23 @@ footer .footermenu a:last-child {
   font-size: 1.1rem;
   font-weight: normal;
 }
+.pcatalog {
+  display: flex !important;
+  justify-content: space-between;
+  padding: 0!important;
+  margin-top: 2rem!important;
+}
+.pcatalog .pimg {
+  width: 80%;
+  background-size: cover!important;
+  background-position: center center;
+}
+.pcatalog .ptxt {
+  padding: 2rem;
+  width: 20%;
+}
+.pcatalog .ptxt h3 {
+  font-size: 2rem;
+  color: #f39200;
+  margin-bottom: 2rem;
+}
