@@ -616,6 +616,64 @@ footer .footermenu a:last-child {
 .subpage.productlist.landing .pgroup.idx1 {
   background: #f39200;
 }
+.subpage.mediathek .sec {
+  margin: 2rem 0 0 0;
+  border-bottom: 1px solid #671d47;
+  padding: 0 0 2rem 0;
+}
+.subpage.mediathek .sec:last-child {
+  border: none;
+}
+.subpage.mediathek .subsecs {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.subpage.mediathek .subsecs .subsec {
+  flex: 1 1 48%;
+}
+.subpage.mediathek .subsecs .subsec h3 {
+  padding: 0 0 0 2rem;
+  color: #1e1e1e;
+}
+.subpage.mediathek h2 {
+  color: #f39200;
+  text-transform: uppercase;
+}
+.subpage.mediathek .files {
+  display: flex;
+  flex-direction: column;
+}
+.subpage.mediathek .files h4,
+.subpage.mediathek .files h5 {
+  margin: 0;
+}
+.subpage.mediathek .files h5 {
+  font-size: 1.1rem;
+  color: #1e1e1e;
+  font-weight: normal;
+}
+.subpage.mediathek .files > div {
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+.subpage.mediathek .files > div > div {
+  display: flex;
+  justify-content: flex-start;
+}
+.subpage.mediathek .files > div i {
+  font-size: 3rem;
+  line-height: 3rem;
+}
+.subpage.mediathek .files > div .morebutton {
+  margin: 0!important;
+  height: 2rem;
+  line-height: 1rem;
+}
+.subpage.mediathek .files > div:nth-child(even) {
+  background: #e9e9e9;
+}
 .subpage.about > .container {
   padding: 1rem 0!important;
 }
