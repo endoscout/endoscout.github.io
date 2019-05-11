@@ -517,6 +517,56 @@ footer .footermenu a:last-child {
 #breadcrumbs .container a:last-child:after {
   content: '';
 }
+.subpage.productgroupslist .product,
+.subpage.productlist .product {
+  display: flex !important;
+  justify-content: space-between;
+  padding: 0!important;
+  margin-top: 2rem!important;
+  border-width: 1px;
+  border-style: solid;
+}
+.subpage.productgroupslist .product .icons,
+.subpage.productlist .product .icons {
+  display: flex;
+  justify-content: flex-start;
+}
+.subpage.productgroupslist .product .icons > div,
+.subpage.productlist .product .icons > div {
+  display: flex;
+  flex-direction: column;
+  margin-right: 2rem;
+}
+.subpage.productgroupslist .product .pimg,
+.subpage.productlist .product .pimg {
+  width: 20%;
+  background-size: cover!important;
+  background-position: center center;
+}
+.subpage.productgroupslist .product .ptxt,
+.subpage.productlist .product .ptxt {
+  background: #aeccd0;
+  min-height: 180px;
+  padding: 1rem 2rem;
+  width: 60%;
+}
+.subpage.productgroupslist .product .ptxt h3,
+.subpage.productlist .product .ptxt h3 {
+  font-size: 1.8rem;
+  color: #f39200;
+  text-transform: uppercase;
+}
+.subpage.productgroupslist .product .plink,
+.subpage.productlist .product .plink {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subpage.productgroupslist .product .plink a,
+.subpage.productlist .product .plink a {
+  font-weight: bold;
+}
 .subpage.productgroupslist .header,
 .subpage.productlist .header {
   margin: 1rem 0;
@@ -685,12 +735,13 @@ footer .footermenu a:last-child {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  border: 1px solid #aeccd0;
 }
 .subpage.product .phc > * {
   width: 50%;
 }
 .subpage.product .phc .pimg {
-  background-size: cover;
+  background-size: 100% auto!important;
   background-position: center center;
   min-height: 200px;
 }

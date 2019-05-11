@@ -545,7 +545,46 @@ footer{
 .subpage{
   &.productgroupslist,&.productlist{
     .product{
-      
+      display:flex !important;
+      justify-content: space-between;
+      padding:0!important;
+      margin-top:2rem!important;
+      border-width: 1px;
+      border-style: solid;
+      .icons{
+        display:flex;
+        justify-content: flex-start;
+        > div{
+          display:flex;
+          flex-direction:column;
+          margin-right:2rem;
+        }
+      }
+      .pimg{
+        width:20%;
+        background-size:cover!important;
+        background-position: center center;
+      }
+      .ptxt{
+        background:@mint;
+        min-height:180px;
+        h3{
+          font-size:1.8rem;
+          color:@orange;
+          text-transform:uppercase;
+        }
+        padding:1rem 2rem;
+        width:60%;
+      }
+      .plink{
+        width:20%;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        a{
+          font-weight:bold;
+        }
+      }
     }
     .header{
       margin:1rem 0;
@@ -715,11 +754,12 @@ footer{
       display:flex;
       flex-direction:row;
       justify-content: space-between;
+      border:1px solid @mint;
       >*{
         width:50%;
       }
       .pimg{
-        background-size:cover;
+        background-size:100% auto!important;
         background-position:center center;
         min-height:200px;
       }
