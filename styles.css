@@ -536,6 +536,7 @@ footer .footermenu a:last-child {
   display: flex;
   flex-direction: column;
   margin-right: 2rem;
+  align-items: center;
 }
 .subpage.productgroupslist .product .pimg,
 .subpage.productlist .product .pimg {
