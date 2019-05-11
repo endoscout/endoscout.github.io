@@ -517,42 +517,52 @@ footer .footermenu a:last-child {
 #breadcrumbs .container a:last-child:after {
   content: '';
 }
-.subpage.productgroupslist .header {
+.subpage.productgroupslist .header,
+.subpage.productlist .header {
   margin: 1rem 0;
 }
-.subpage.productgroupslist .header h1 {
+.subpage.productgroupslist .header h1,
+.subpage.productlist .header h1 {
   text-transform: uppercase;
   font-size: 2rem;
   margin: 0;
 }
-.subpage.productgroupslist .header .ct {
+.subpage.productgroupslist .header .ct,
+.subpage.productlist .header .ct {
   display: flex;
   flex-direction: column;
   justify-content: center;
   padding: 2rem;
 }
-.subpage.productgroupslist .pgroup {
+.subpage.productgroupslist .pgroup,
+.subpage.productlist .pgroup {
   background: #e9e9e9;
 }
-.subpage.productgroupslist .pgroup .img {
+.subpage.productgroupslist .pgroup .img,
+.subpage.productlist .pgroup .img {
   padding: 30% 0 0 0;
 }
-.subpage.productgroupslist .pgroup .titleAndLink {
+.subpage.productgroupslist .pgroup .titleAndLink,
+.subpage.productlist .pgroup .titleAndLink {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem 1rem;
 }
-.subpage.productgroupslist .pgroup .titleAndLink h2 {
+.subpage.productgroupslist .pgroup .titleAndLink h2,
+.subpage.productlist .pgroup .titleAndLink h2 {
   margin: 0;
 }
-.subpage.productgroupslist.landing .pgroup.idx0 {
+.subpage.productgroupslist.landing .pgroup.idx0,
+.subpage.productlist.landing .pgroup.idx0 {
   background: #671d47;
 }
-.subpage.productgroupslist.landing .pgroup.idx0 h2 {
+.subpage.productgroupslist.landing .pgroup.idx0 h2,
+.subpage.productlist.landing .pgroup.idx0 h2 {
   color: white;
 }
-.subpage.productgroupslist.landing .pgroup.idx1 {
+.subpage.productgroupslist.landing .pgroup.idx1,
+.subpage.productlist.landing .pgroup.idx1 {
   background: #f39200;
 }
 .subpage.about > .container {
