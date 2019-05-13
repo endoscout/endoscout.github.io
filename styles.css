@@ -628,9 +628,12 @@ footer .footermenu a:last-child {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 .subpage.mediathek .subsecs .subsec {
-  flex: 1 1 48%;
+  flex: 1 0 48%;
+  width: 48%;
+  padding: 0.5rem;
 }
 .subpage.mediathek .subsecs .subsec h3 {
   padding: 0 0 0 2rem;
@@ -673,6 +676,18 @@ footer .footermenu a:last-child {
 }
 .subpage.mediathek .files > div:nth-child(even) {
   background: #e9e9e9;
+}
+.subpage.events > .container {
+  padding: 1rem 0!important;
+}
+.subpage.events .c50i50 {
+  margin: 0 0 1rem 0;
+}
+.subpage.events .c50i50.c2313 > * {
+  width: 34%!important;
+}
+.subpage.events .c50i50.c2313 > *:first-child {
+  width: 66%!important;
 }
 .subpage.about > .container {
   padding: 1rem 0!important;

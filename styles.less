@@ -641,8 +641,11 @@ footer{
       width:100%;
       display:flex;
       justify-content: space-between;
+      flex-wrap: wrap;
       .subsec{
-        flex: 1 1 48%;
+        flex: 1 0 48%;
+        width:48%;
+        padding:0.5rem;
         h3{
           padding:0 0 0 2rem;
           color:@content;
@@ -684,6 +687,23 @@ footer{
         &:nth-child(even){
           background:@grau;
         }
+      }
+    }
+  }
+  &.events{
+    > .container{
+      padding:1rem 0!important;
+    }
+    .c50i50{
+      margin:0 0 1rem 0;
+    }
+    .c50i50.c2313{
+      > *{
+        width:34%!important;
+        &:first-child{
+          width:66%!important;
+        }
+        
       }
     }
   }
