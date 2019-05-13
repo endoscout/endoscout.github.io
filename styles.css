@@ -639,6 +639,16 @@ footer .footermenu a:last-child {
   padding: 0 0 0 2rem;
   color: #1e1e1e;
 }
+.subpage.mediathek .subsecs .subsec .files {
+  display: block;
+  width: 100%;
+}
+.subpage.mediathek .subsecs .subsec .icontitle {
+  padding: 0 2rem 0 0;
+}
+.subpage.mediathek .subsecs .subsec .icontitle i {
+  margin: 0 2rem 0 0;
+}
 .subpage.mediathek h2 {
   color: #f39200;
   text-transform: uppercase;
