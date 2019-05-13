@@ -330,9 +330,9 @@
 <div class="subpage productlist">
   <div class="ui container standard">
     
-    <div class="header" style=background: %!s(MISSING)>
-      <div style="">
-        <div class="ct" style=color: %!s(MISSING)>
+    <div class="header" style=background:rgb(243,146,0) %!s(MISSING)>
+      <div style="background:url(https://res.cloudinary.com/b-coding/image/fetch/c_scale,f_auto,h_200/https://endoscout.github.io/uploads/koronar_icon.png) right 1rem center no-repeat; background-size:auto 90%;">
+        <div class="ct" style=color:rgb(103,29,71) %!s(MISSING)>
           
 <div id="breadcrumbsInline">
           
@@ -371,7 +371,7 @@
             
           
 </div>
-          <h1 style=color: %!s(MISSING)>
+          <h1 style=color:rgb(103,29,71) %!s(MISSING)>
             Medikamentenbeschichtete Ballonkatheter
           </h1>
         </div>
@@ -380,18 +380,18 @@
     
     
     
-    <div class="product" style=border-color:>
+    <div class="product" style=border-color:rgb(243,146,0)>
         <div class="pimg" style="background:url(https://res.cloudinary.com/b-coding/image/fetch/c_scale,f_auto,w_800/https://endoscout.github.io/uploads/2019/05/07/essential_3.png) center center no-repeat;"></div>
         <div class="ptxt">
             <a href="https://endoscout.github.io/produkte/koronare-gef%C3%A4%C3%9Ftherapie/medikamentenbeschichtete-ballonkatheter/essential/">
-              <h3 style=color:>Essential</h3>
+              <h3 style=color:rgb(243,146,0)>Essential</h3>
             </a>
             <div class="icons">
                 
             </div>
         </div>
-        <div class="plink" style=background:>
-            <a href="https://endoscout.github.io/produkte/koronare-gef%C3%A4%C3%9Ftherapie/medikamentenbeschichtete-ballonkatheter/essential/" style=color:>
+        <div class="plink" style=background:rgb(243,146,0)>
+            <a href="https://endoscout.github.io/produkte/koronare-gef%C3%A4%C3%9Ftherapie/medikamentenbeschichtete-ballonkatheter/essential/" style=color:rgb(103,29,71)>
                 Zum Produkt
               </a>
         </div>
@@ -460,6 +460,24 @@
       });
       $('.ui.embed').embed();
       $('#mntbt').click(function () {
+        if ($('#headermenu').hasClass('mobvis')) {
+          $('#headermenu').removeClass('mobvis');
+        } else {
+          $('#headermenu').addClass('mobvis');
+        }
+
+      });
+      $('.morebutton.detail').click(function () {
+        var target=$(this).attr('data-target');
+        if ($('#'+target).hasClass('small')){
+          $('#'+target).addClass('big');
+          $('#'+target).removeClass('small');
+          $(this).find('.txt').text('schliessen');
+        } else{
+          $('#'+target).addClass('small');
+          $('#'+target).removeClass('big');
+          $(this).find('.txt').text('öffnen');
+        }
         if ($('#headermenu').hasClass('mobvis')) {
           $('#headermenu').removeClass('mobvis');
         } else {

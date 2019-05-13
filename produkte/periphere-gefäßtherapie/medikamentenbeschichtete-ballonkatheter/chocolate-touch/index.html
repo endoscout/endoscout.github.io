@@ -563,6 +563,24 @@
         }
 
       });
+      $('.morebutton.detail').click(function () {
+        var target=$(this).attr('data-target');
+        if ($('#'+target).hasClass('small')){
+          $('#'+target).addClass('big');
+          $('#'+target).removeClass('small');
+          $(this).find('.txt').text('schliessen');
+        } else{
+          $('#'+target).addClass('small');
+          $('#'+target).removeClass('big');
+          $(this).find('.txt').text('öffnen');
+        }
+        if ($('#headermenu').hasClass('mobvis')) {
+          $('#headermenu').removeClass('mobvis');
+        } else {
+          $('#headermenu').addClass('mobvis');
+        }
+
+      });
     });
   </script>
   <script type="text/javascript">
