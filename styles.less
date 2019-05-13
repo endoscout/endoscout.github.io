@@ -700,6 +700,53 @@ footer{
       }
     }
   }
+  &.news{
+    .event{
+      &:nth-child(even){
+        background:@grau;
+      }
+      padding: 1rem 1rem;
+      margin: 0 0 2rem 0;
+      &.small{
+        .content{
+          display:none;
+        }
+      }
+      &.big{
+        .content{
+          display:block;
+        }
+        .summary{
+          display:none;
+        }
+      }
+      .titles{
+        display:flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        .morebutton{
+          flex: 0 0 auto;
+          margin:0;
+          cursor: pointer;
+        }
+        h3{
+          color: @rot;
+          font-size:1.5rem;
+          padding:0;
+          margin:0 0 1rem 0;
+        }
+      }
+      .summary,.content{
+        color:@content;
+      }
+      .content{
+        padding:1rem 0;
+        img{
+          max-height:300px;
+        }
+      }
+    }
+  }
   &.events{
     > .container{
       padding:1rem 0!important;
