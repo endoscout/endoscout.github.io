@@ -729,6 +729,27 @@ footer .footermenu a:last-child {
 .subpage.news .event .content img {
   max-height: 300px;
 }
+.subpage.kontakt > .container {
+  padding: 1rem 0!important;
+}
+.subpage.kontakt .c50i50 {
+  margin: 0 0 1rem 0;
+}
+.subpage.kontakt .c50i50.c2313 > * {
+  width: 34%!important;
+}
+.subpage.kontakt .c50i50.c2313 > *:first-child {
+  width: 66%!important;
+  flex: 0 0 auto;
+  padding: 0 0 40% 0;
+}
+.subpage.kontakt .c50i50.c2313 > *:first-child iframe {
+  padding: 0;
+  margin: 0;
+}
+.subpage.kontakt .c50i50.c2313 .content_no_even_odd {
+  background-position: right -50px bottom 1rem !important;
+}
 .subpage.events > .container {
   padding: 1rem 0!important;
 }
