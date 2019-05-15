@@ -716,13 +716,23 @@ footer .footermenu a:last-child {
   .subpage.productlist .product > * {
     width: 100%!important;
   }
+  .subpage.productgroupslist .product .plink,
+  .subpage.productlist .product .plink {
+    display: block;
+  }
   .subpage.productgroupslist .product .plink a,
   .subpage.productlist .product .plink a {
+    width: 100%;
     line-height: 3rem!important;
+    text-align: center;
   }
   .subpage.productgroupslist .product .pimg,
   .subpage.productlist .product .pimg {
     min-height: 20vh;
+  }
+  .subpage.productgroupslist .product .ptxt,
+  .subpage.productlist .product .ptxt {
+    min-height: 0!important;
   }
   .subpage.productgroupslist .product .icons img,
   .subpage.productlist .product .icons img {
