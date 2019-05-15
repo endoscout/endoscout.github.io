@@ -40,6 +40,11 @@ blockquote {
 header #headermenuw {
   background: #aeccd0;
 }
+@media (max-width: 720px) {
+  header .logo {
+    height: 60px;
+  }
+}
 header #logotel {
   padding: 1rem 0;
   display: flex;
@@ -68,6 +73,40 @@ header #logotel .adrtel > div:last-child {
 }
 header #logotel .adrtel > div img {
   margin: 0 1rem 0 0;
+}
+@media (max-width: 720px) {
+  header #logotel {
+    padding: 1rem 0;
+    display: flex;
+    flex-direction: column!important;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  header #logotel .adrtel {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    flex: 0 1 auto;
+  }
+  header #logotel .adrtel > div {
+    display: inline-block;
+    flex: 1 1 auto;
+    padding: 0 0.5rem;
+    margin: 0;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  header #logotel .adrtel > div:last-child {
+    margin-right: 0;
+    padding-right: 0;
+    border: none;
+  }
+  header #logotel .adrtel > div img {
+    margin: 0 0.5rem 0 0;
+    height: 25px;
+  }
 }
 header #mnt {
   display: none;

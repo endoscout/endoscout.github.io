@@ -53,6 +53,11 @@ header{
   #headermenuw{
     background:@mint;
   }
+  .logo{
+    @media (max-width: 720px){
+      height:60px;
+    }
+  }
   #logotel{
     padding:1rem 0;
     display:flex;
@@ -81,7 +86,40 @@ header{
         }
       }
     }
+    @media (max-width: 720px){
+      padding:1rem 0;
+        display:flex;
+        flex-direction: column!important;
+        justify-content: flex-start;
+        align-items: flex-start;
+        .adrtel{
+          margin-top:1rem;
+          display:flex;
+          justify-content:space-between;
+          flex:0 1 auto;
+          > div{
+            display:inline-block;
+            flex:1 1 auto;
+            padding: 0 0.5rem;
+            margin: 0;
+            border-right:none;
+            &:last-child{
+              margin-right:0;
+              padding-right:0;
+              border:none;
+            }
+            display:flex;
+            justify-content: space-between;
+            align-items:center;
+            img{
+              margin: 0 0.5rem 0 0;
+              height:25px;
+            }
+          }
+        }
+    }
   }
+  
   #mnt{
     display:none;
     position:absolute;
