@@ -749,6 +749,13 @@ footer .footermenu a:last-child {
   font-size: 2rem;
   margin: 0;
 }
+@media (max-width: 720px) {
+  .subpage.productgroupslist .header h1,
+  .subpage.productlist .header h1 {
+    text-transform: none;
+    font-size: 1.6rem!important;
+  }
+}
 .subpage.productgroupslist .header .ct,
 .subpage.productlist .header .ct {
   display: flex;
