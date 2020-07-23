@@ -1,0 +1,19 @@
+---
+label: EndoscoutColors
+hide_body: true
+fields:
+- type: select
+  name: farbe
+  config:
+    source:
+      type: simple
+    required: false
+    options:
+    - mint:rgb(191,222,227)
+    - mint_hell:rgb(174,204,208)
+    - rot:rgb(103,29,71)
+    - orange:rgb(243,146,0)
+    - orange_hell:rgb(248,170,35)
+    - grau:rgb(233,233,233)
+    - weiss:rgb(255,255,255)
+  label: Farbe
