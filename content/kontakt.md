@@ -1,0 +1,27 @@
++++
+date = "2019-04-13T08:07:14+02:00"
+layout = "kontakt"
+seo_description = "Kontakt - endoscout GmbH Deichelweiherweg 1, 79102 Freiburg, Tel. +49 (761) 458948-0, Fax. +49 (761) 458948-99, info@endoscout.de"
+title = "Kontakt"
+[content]
+content = "<p>Schreiben Sie uns, oder rufen Sie uns an, wir sind für Sie da. Oder vereinbaren Sie einfach einen Termin. </p><p>endoscout GmbH<br>Deichelweiherweg 1<br>79102 Freiburg</p><p>Tel. +49 (761) 458948-0<br>Fax. +49 (761) 458948-99</p>"
+[content.textfarbe]
+farbe = "weiss:rgb(255,255,255)"
+[hintergrund]
+bild = "/uploads/2019/05/13/kontakt_bild.png"
+farbe = "rot:rgb(103,29,71)"
+[link]
+link = "mailto:info@endoscout.de"
+linkbeschriftung = "E-Mail"
+[link.linkfarbe]
+linkfarbe = "weiss"
+[menu.main]
+weight = 20
+[menu.mobil]
+weight = 6
+[titel]
+titel = "Kontakt"
+[titel.textfarbe]
+farbe = "orange:rgb(243,146,0)"
+
++++

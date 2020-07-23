@@ -1,0 +1,137 @@
++++
+seo_description = "endoscout  mit Firmensitz in Freiburg ist ein innovatives und global vernetztes Unternehmen im Bereich der Medizintechnik.  Das Unternehmen gliedert sich in die beiden Geschäftsbereiche endotrade, dem Direktvertrieb interventioneller Produkte, sowie dem Geschäftsbereich endocare in dem endoscout als Full-Service-Dienstleister in den Bereichen Einkauf, Logistik und Abrechnung auf dem Gebiet der ambulanten Behandlung tätig ist."
+title = "Home"
+type = "page"
+[content25_1.content]
+content = "Schreiben Sie uns, oder rufen Sie uns an, wir sind für Sie da. Oder vereinbaren Sie einfach einen Termin."
+[content25_1.content.textfarbe]
+farbe = "weiss:rgb(255,255,255)"
+[content25_1.hintergrund]
+bild = "/uploads/endoscout_e.png"
+farbe = "rot:rgb(103,29,71)"
+[content25_1.link]
+link = "mailto:info@endoscout.de"
+linkbeschriftung = "E-Mail"
+[content25_1.link.linkfarbe]
+linkfarbe = "weiss"
+[content25_1.titel]
+titel = "Kontakt"
+[content25_1.titel.textfarbe]
+farbe = "orange:rgb(243,146,0)"
+[content25_2]
+event = "events/linc-2020.md"
+titel = "Messe, Workshops"
+[content25_2.hintergrund]
+bild = ""
+farbe = "mint:rgb(191,222,227)"
+[content25_2.link]
+link = "veranstaltungen.md"
+linkbeschriftung = "Alle Events anzeigen"
+[content25_2.link.linkfarbe]
+linkfarbe = "orange"
+[content50.content]
+content = "Produktinformationen, Produktkatalog und vieles mehr finden Sie hier zum Download"
+[content50.content.textfarbe]
+farbe = "rot:rgb(103,29,71)"
+[content50.hintergrund]
+bild = "/uploads/mediathek_icon.png"
+farbe = "orange:rgb(243,146,0)"
+[content50.link]
+link = "mediathek.md"
+linkbeschriftung = "weiterlesen"
+[content50.link.linkfarbe]
+linkfarbe = "rot"
+[content50.titel]
+titel = "Mediathek"
+[content50.titel.textfarbe]
+farbe = "rot:rgb(103,29,71)"
+[infoblock_endoscout]
+beschriftung_link_button = "weiterlesen"
+bild = "/uploads/freiburg-wiwilibruecke-c-tichr-fotolia_grid_medium.jpg"
+farbe_link_button = "orange"
+link = "über-uns.md"
+link_button_qm = true
+[infoblock_endoscout.content]
+content = "<p>endoscout mit Firmensitz in Freiburg ist ein innovatives und global vernetztes Unternehmen im Bereich der Medizintechnik.</p><p>Das Unternehmen gliedert sich in die beiden Geschäftsbereiche endotrade, dem Direktvertrieb interventioneller Produkte, sowie dem Geschäftsbereich endocare in dem endoscout als Full-Service-Dienstleister in den Bereichen Einkauf, Logistik und Abrechnung auf dem Gebiet der ambulanten Behandlung tätig ist.</p>"
+[infoblock_endoscout.content.textfarbe]
+farbe = "rot:rgb(103,29,71)"
+[infoblock_endoscout.hintergrundfarbe]
+farbe = "mint_hell:rgb(174,204,208)"
+[infoblock_endoscout.titel]
+titel = "WER WIR SIND"
+untertitel = "Endoscout"
+[infoblock_endoscout.titel.textfarbe]
+farbe = "orange_hell:rgb(248,170,35)"
+[menu.main]
+weight = 4
+[[news]]
+linkbeschriftung = "weiterlesen"
+newsitem = "news/Analysis of German Insurance Data Shows No Long-Term Increased Mortality With Paclitaxel-Based Devices.md"
+[news.hintergrundfarbe]
+farbe = "rot:rgb(103,29,71)"
+[news.textfarbe]
+farbe = "weiss:rgb(255,255,255)"
+[news.titelfarbe]
+farbe = "orange:rgb(243,146,0)"
+[[news]]
+linkbeschriftung = "weiterlesen"
+newsitem = "news/2-year mortality EffPac.md"
+[news.hintergrundfarbe]
+farbe = "mint:rgb(191,222,227)"
+[news.textfarbe]
+farbe = "rot:rgb(103,29,71)"
+[news.titelfarbe]
+farbe = "orange:rgb(243,146,0)"
+[[produktbereiche]]
+content = "<ul><li><p><a href=\"produkte/periphere-gefäßtherapie/ballonkatheter/liste/\" title=\"\">Ballonkatheter</a></p></li><li><p><a href=\"/produkte/periphere-gefäßtherapie/medikamentenbeschichtete-ballonkatheter/liste/\" title=\"\">Medikamentenbeschichtete Ballonkathter</a></p></li><li><p><a href=\"/produkte/periphere-gefäßtherapie/extraktionskatheter/liste/\" title=\"\">Extraktionskatheter</a></p></li><li><p><a href=\"/produkte/periphere-gefäßtherapie/ballonexpandierbare-stents/liste/\" title=\"\">Ballonexpandierbare Stents</a></p></li><li><p><a href=\"/produkte/periphere-gefäßtherapie/selbstexpandierende-stents/liste/\" title=\"\">Selbstexpandierende Stents</a></p></li><li><p><a href=\"/produkte/periphere-gefäßtherapie/vascular-plugs/liste/\" title=\"\">Vascular Plugs</a></p></li></ul>"
+hintergrundbild = "/uploads/2019/05/13/bein_bild_test.png"
+titel_lang = "Produkte Interventionelle Gefäßtherapie [Peripher]"
+[produktbereiche.hintergrundfarbe]
+farbe = "rot:rgb(103,29,71)"
+[produktbereiche.textfarbe]
+farbe = "weiss:rgb(255,255,255)"
+[produktbereiche.titel]
+titel = "Peripher"
+[produktbereiche.titel.textfarbe]
+farbe = "weiss:rgb(255,255,255)"
+[[produktbereiche]]
+content = "<ul><li><p><a href=\"/produkte/koronare-gefäßtherapie/ballonkatheter/liste/\" title=\"\">Ballonkatheter</a></p></li><li><p><a href=\"/produkte/koronare-gefäßtherapie/medikamentenbeschichtete-ballonkatheter/liste/\" title=\"\">Medikamentenbeschichteter Ballonkatheter</a></p></li><li><p><a href=\"/produkte/koronare-gefäßtherapie/ballonexpandierbare-stents/liste/\" title=\"\">Ballonexpandiernde Stents</a></p></li></ul>"
+hintergrundbild = "/uploads/koronar_icon.png"
+titel_lang = "Produkte Interventionelle Gefäßtherapie [Koronar]"
+[produktbereiche.hintergrundfarbe]
+farbe = "orange_hell:rgb(248,170,35)"
+[produktbereiche.textfarbe]
+farbe = "rot:rgb(103,29,71)"
+[produktbereiche.titel]
+titel = "Koronar"
+[produktbereiche.titel.textfarbe]
+farbe = "rot:rgb(103,29,71)"
+[[slider]]
+bild = "/uploads/2020/03/23/TINTIN-TRIAL-IVASCULAR-2020.jpg"
+content = "TINTIN is a physician initiated, prospective, single arm multicenter trial, that investigates the safety and efficacy of the treatment with luminor DCB and iVolution self-expanding stent in TASC C and D femoropopliteal lesions.\n\nTINTIN 1-year outcomes show a Primary Patency of 90.5%, freedom from TLR of 94.4%. Safety has been proved with 0 device related deaths."
+content_hintergrundgrafik = ""
+link = "news/TINTIN 1-year outcomes..md"
+link_button_beschriftung = "weiterlesen"
+link_button_qm = true
+linktitel = "Produkte > Peripher"
+titel = "TINTIN Trial"
+[[slider]]
+bild = "/uploads/2019/06/24/EuroPCR_press_release_image.jpg"
+content = "EFFPAC RCT 24-month outstanding results with Luminor DCB have been revealed at EuroPCR 2019."
+content_hintergrundgrafik = ""
+link = "news/EFFPAC: 24-month outcomes.md"
+link_button_beschriftung = "weiterlesen"
+link_button_qm = true
+linktitel = "News"
+titel = "EFFPAC: 24-MONTH OUTCOMES"
+[[slider]]
+bild = "/uploads/2019/05/14/slide_chocolate.jpg"
+content = "Incorporating a unique pillow and groove design intended to reduce dissections and minimize vessel wall trauma, Chocolate Touch® is coated with the drug paclitaxel for better long-term outcomes."
+content_hintergrundgrafik = "/uploads/2019/05/13/bein_bild_test.png"
+link = "produkte/Periphere Gefäßtherapie/Medikamentenbeschichtete Ballonkatheter/chocolate-touch.md"
+link_button_beschriftung = "weiterlesen"
+link_button_qm = true
+linktitel = "Produkte > Peripher"
+titel = "CHOCOLATE  \nTOUCH"
+
++++
