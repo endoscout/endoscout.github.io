@@ -1,5 +1,5 @@
 +++
-datum = 2020-04-20T22:00:00Z
+datum = 2020-04-21T22:00:00Z
 seo_description = ""
 titel = "Amputation beim Diabetischen Fußsyndrom: Patientinnen und Patienten können ärztliche Zweitmeinung zur empfohlenen Operation einholen."
 zusammenfassung = "Patientinnen und Patienten mit Diabetischem Fußsyndrom können sich vor einer Amputation an den unteren Extremitäten zukünftig eine unabhängige ärztliche Zweitmeinung einholen. Hierbei überprüft ein qualifizierter Zweitmeiner die medizinische Notwendigkeit des geplanten Eingriffs und berät zu konservativen und weniger invasiven Behandlungsmöglichkeiten."
