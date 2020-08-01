@@ -1,10 +1,8 @@
 {{ define "main" }}
 {{$p:=.}}
 {{$e:=.}}
-{{ range where .Data.Pages "Section" "events" }}
-      {{if eq .Params.startseite true}}
+{{ range where .Site.Pages "Params.startseite" true }}
       {{$e = .}}
-      {{end}}
     {{ end }}
 <div id="home">
   <div class="ui container" id="slidercontainer">
