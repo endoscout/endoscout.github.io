@@ -11,7 +11,7 @@ content = "<ul><li><p><strong>Over the wire catheter </strong>(OTW) </p></li><li
 dateien = []
 titel = "Features"
 [[bereiche]]
-content = ""
+content = "<p><img src=\"/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-22-18-09.png\"></p>"
 dateien = []
 titel = "Ordering Information"
 [[bereiche]]
