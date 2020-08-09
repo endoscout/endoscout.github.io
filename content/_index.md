@@ -133,14 +133,5 @@ link_button_beschriftung = "weiterlesen"
 link_button_qm = true
 linktitel = "Produkte > Peripher"
 titel = "SERGEANT"
-[[slider]]
-bild = "/uploads/2019/05/14/slide_chocolate.jpg"
-content = "Incorporating a unique pillow and groove design intended to reduce dissections and minimize vessel wall trauma, Chocolate Touch® is coated with the drug paclitaxel for better long-term outcomes."
-content_hintergrundgrafik = "/uploads/2019/05/13/bein_bild_test.png"
-link = "produkte/Periphere Gefäßtherapie/Medikamentenbeschichtete Ballonkatheter/chocolate-touch.md"
-link_button_beschriftung = "weiterlesen"
-link_button_qm = true
-linktitel = "Produkte > Peripher"
-titel = "CHOCOLATE  \nTOUCH"
 
 +++
