@@ -10,12 +10,12 @@ icon = ""
 [[icons]]
 interne_beschriftung = "Oberschenkel"
 [icons.icon]
-bild = ""
-titel = ""
+bild = "/uploads/2019/05/10/icon_oberschenkel.png"
+titel = "Oberschenkel"
 [[icons]]
 interne_beschriftung = "Unterschenkel"
 [icons.icon]
-bild = ""
-titel = ""
+bild = "/uploads/2019/05/10/icon_unterschenkel.png"
+titel = "Unterschenkel"
 
 +++
