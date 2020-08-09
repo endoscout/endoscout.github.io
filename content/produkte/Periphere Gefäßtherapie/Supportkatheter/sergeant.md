@@ -10,13 +10,9 @@ content = "<ul><li><p><strong>Over the wire</strong> catheter (OTW)</p></li><li>
 dateien = []
 titel = "Features"
 [[bereiche]]
-content = ""
+content = "<p><img src=\"/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-21-51-16.png\"></p>"
+dateien = []
 titel = "Ordering Information"
-[[bereiche.dateien]]
-beschreibung = ""
-datei = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-21-51-16.png"
-externer_link = ""
-titel = ""
 [[bereiche]]
 content = ""
 titel = "Documents"
