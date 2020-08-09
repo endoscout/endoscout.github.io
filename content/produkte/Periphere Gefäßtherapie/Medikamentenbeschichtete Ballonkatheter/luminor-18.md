@@ -19,6 +19,10 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+beschreibung = "Radiology | Published Online: Jul 21 2020"
+externer_link = "https://pubs.rsna.org/doi/10.1148/radiol.2020201370"
+titel = "Two-year Review on Mortality and Morbidity after Femoropopliteal Drug-coated Balloon Angioplasty in the Randomized EffPac Trial"
+[[bereiche.dateien]]
 beschreibung = "CardioVascular and Interventional Radiology"
 datei = "/uploads/2020/04/07/10.1007_s00270-020-02452-2.pdf"
 titel = "Multivariable Regression Analysis of Clinical Data from the Randomized- Controlled EffPac Trial: Efficacy of Femoropopliteal Drug-Coated Balloon Angioplasty"
