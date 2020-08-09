@@ -16,7 +16,11 @@ dateien = []
 titel = "Ordering Information"
 [[bereiche]]
 content = ""
-dateien = []
 titel = "Documents"
+[[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2020/08/09/mp53221_brochute-navitian_eng_screen_ed0_feb-19.pdf"
+externer_link = ""
+titel = "Official brochure"
 
 +++
