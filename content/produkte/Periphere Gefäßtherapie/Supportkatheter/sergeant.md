@@ -20,8 +20,12 @@ externer_link = ""
 titel = ""
 [[bereiche]]
 content = ""
-dateien = []
 titel = "Documents"
+[[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2020/08/09/mp53180_-brochure-eng_sergeant-screen_ed0_may-20.pdf"
+externer_link = ""
+titel = "Official brochure"
 [[icons]]
 interne_beschriftung = "Oberschenkel"
 [icons.icon]
