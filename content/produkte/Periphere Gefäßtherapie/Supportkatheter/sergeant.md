@@ -12,8 +12,12 @@ dateien = []
 titel = "Features"
 [[bereiche]]
 content = ""
-dateien = []
 titel = "Ordering Information"
+[[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-21-51-16.png"
+externer_link = ""
+titel = ""
 [[bereiche]]
 content = ""
 dateien = []
