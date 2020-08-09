@@ -82,6 +82,7 @@ fields:
   template: seo
   label: SEO
 pages:
+- content/produkte/Koronare Gefäßtherapie/Mikrokatheter/navitian.md
 - content/produkte/Periphere Gefäßtherapie/Ballonkatheter/oceanus_35.md
 - content/produkte/Periphere Gefäßtherapie/Extraktionskatheter/capturer.md
 - content/produkte/Periphere Gefäßtherapie/Selbstexpandierende Stents/ivolution.md
