@@ -125,6 +125,15 @@ link_button_qm = true
 linktitel = "News"
 titel = "EFFPAC: 24-MONTH OUTCOMES"
 [[slider]]
+bild = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-22-05-33.png"
+content = "sergeant is a peripheral support catheter, designed to lead complex lesions procedures. It is intended to provide physicians with the needed support to cross all lesions. sergeants outstanding guidewire support is possible thanks to its braided catheter that allows exceptional pushability and torque capacity and tapered shaft that increases the support."
+content_hintergrundgrafik = ""
+link = "produkte/Periphere Gefäßtherapie/Supportkatheter/sergeant.md"
+link_button_beschriftung = "weiterlesen"
+link_button_qm = true
+linktitel = "Produkte > Peripher"
+titel = "SERGEANT"
+[[slider]]
 bild = "/uploads/2019/05/14/slide_chocolate.jpg"
 content = "Incorporating a unique pillow and groove design intended to reduce dissections and minimize vessel wall trauma, Chocolate Touch® is coated with the drug paclitaxel for better long-term outcomes."
 content_hintergrundgrafik = "/uploads/2019/05/13/bein_bild_test.png"
