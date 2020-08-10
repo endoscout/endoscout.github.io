@@ -3,7 +3,7 @@ icons = []
 seo_description = ""
 title = "navitian"
 [menu.main]
-parent = "[K]Microkatheter"
+parent = "[K]Mikrokatheter"
 weight = 1
 [ueberblick]
 bild = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-22-11-59.png"

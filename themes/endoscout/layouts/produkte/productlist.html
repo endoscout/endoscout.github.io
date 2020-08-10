@@ -18,7 +18,7 @@
     <div class="product" {{ printf "style=border-color:%s" (partial "colorextr" $currentPage.Params.header.hintergrundfarbe.farbe) | safeHTMLAttr }}>
         <div class="pimg" style="background:url({{partial "imgUrl" (dict "img" $p.Params.ueberblick.bild "params" "c_scale,f_auto,w_800" )}}) center center no-repeat;"></div>
         <div class="ptxt">
-            <a href="{{ref $currentPage .}}">
+            <a href="{{relref $currentPage .}}">
               <h3 {{ printf "style=color:%s" (partial "colorextr" $currentPage.Params.header.hintergrundfarbe.farbe) | safeHTMLAttr }}>{{replaceRE "\\[.+\\]" "" $p.Params.title}}</h3>
             </a>
             <div class="icons">
@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="plink" {{ printf "style=background:%s" (partial "colorextr" $currentPage.Params.header.hintergrundfarbe.farbe) | safeHTMLAttr }}>
-            <a class="plink" href="{{ref $currentPage .}}" {{ printf "style=color:%s" (partial "colorextr" $currentPage.Params.header.titelfarbe.farbe) | safeHTMLAttr }}>
+            <a class="plink" href="{{relref $currentPage .}}" {{ printf "style=color:%s" (partial "colorextr" $currentPage.Params.header.titelfarbe.farbe) | safeHTMLAttr }}>
                 Zum Produkt
               </a>
         </div>
