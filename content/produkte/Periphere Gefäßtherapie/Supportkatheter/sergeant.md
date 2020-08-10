@@ -5,7 +5,7 @@ title = "sergeant"
 parent = "[P]Supportkatheter"
 weight = 1
 [ueberblick]
-bild = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-21-53-14.png"
+bild = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-22-05-33.png"
 content = "<p>Peripheral support catheter</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>Good navigability in tortuous anatomy with HYDRAX + hydrophilic coating</p></li><li><p>Exceptional pushability and torque capacity thanks to its unique braided design</p></li><li><p>Increased support due to its tapered shaft design</p></li><li><p>4 radiopaque markers to ensure a perfect visibility</p></li></ul>"
 icon = ""
 [[bereiche]]
