@@ -41,7 +41,7 @@ link = "produkte/Periphere Gefäßtherapie/Vascular Plugs/liste.md"
 linkbeschriftung = "weiter"
 titel = "Vascular Plugs"
 [[bereiche]]
-bild = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-22-05-33.png"
+bild = "/uploads/2020/08/10/supportkat"
 link = "produkte/Periphere Gefäßtherapie/Supportkatheter/liste.md"
 linkbeschriftung = "weiter"
 titel = "Supportkatheter"
