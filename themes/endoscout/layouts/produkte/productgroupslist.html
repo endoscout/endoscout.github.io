@@ -15,7 +15,7 @@
       {{range .Params.bereiche}}
         <div class="column">
           <div class="pgroup" {{ printf "style=border-color:%s" (partial "colorextr" $currentPage.Params.header.hintergrundfarbe.farbe) | safeHTMLAttr }}>
-            <a href="{{relref $currentPage .link }}">
+            <a href="{{ref $currentPage .link }}">
               {{if eq $currentPage.Params.title "Produkte"}}
                 <div class="img" style="{{with .bild}}background:url({{partial "imgUrl" (dict "img" . "params" "c_scale,f_auto,w_600" )}}) center center no-repeat; background-size:auto 90%;{{end}}"></div>
               {{else}}
@@ -23,10 +23,10 @@
               {{end}}
             </a>
             <div class="titleAndLink" {{ printf "style=background:%s" (partial "colorextr" $currentPage.Params.header.hintergrundfarbe.farbe) | safeHTMLAttr }}>
-              <a href="{{relref $currentPage .link }}">
+              <a href="{{ref $currentPage .link }}">
                 <h2 {{ printf "style=color:%s" (partial "colorextr" $currentPage.Params.header.titelfarbe.farbe) | safeHTMLAttr }}>{{.titel}}</h2>
               </a>
-              <a class="morebutton {{$currentPage.Params.linkfarbe.linkfarbe}}" href="{{relref $currentPage .link }}">
+              <a class="morebutton {{$currentPage.Params.linkfarbe.linkfarbe}}" href="{{ref $currentPage .link }}">
                   <div class="txt">{{.linkbeschriftung}}</div>
               </a>
             </div>
