@@ -6,7 +6,7 @@ products = ["produkte/Periphere Gefäßtherapie/Supportkatheter/sergeant.md"]
 seo_description = "Peripher Supportkatheter: sergeant"
 title = "[P]Supportkatheter"
 [header]
-hintergrundbild = "/uploads/2020/08/10/supportkat"
+hintergrundbild = "/uploads/bein_bild.png"
 [header.hintergrundfarbe]
 farbe = "rot:rgb(103,29,71)"
 [header.titelfarbe]
