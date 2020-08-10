@@ -6,7 +6,7 @@ products = ["produkte/Koronare Gefäßtherapie/Mikrokatheter/navitian.md"]
 seo_description = "Mikrokatheter: Navitian "
 title = "[K]Mikrokatheter"
 [header]
-hintergrundbild = "/uploads/koronar_icon.png"
+hintergrundbild = "/uploads/2020/08/10/mikrokat"
 [header.hintergrundfarbe]
 farbe = "orange:rgb(243,146,0)"
 [header.titelfarbe]
