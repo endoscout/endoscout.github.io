@@ -31,7 +31,7 @@ link = "produkte/Koronare Gefäßtherapie/Ballonexpandierbare Stents/liste.md"
 linkbeschriftung = "weiter"
 titel = "Ballonexpandierbare Stents"
 [[bereiche]]
-bild = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-22-11-59.png"
+bild = "/uploads/2020/08/10/mikrokat-1"
 link = "produkte/Koronare Gefäßtherapie/Mikrokatheter/liste.md"
 linkbeschriftung = "weiter"
 titel = "Mikrokatheter"
