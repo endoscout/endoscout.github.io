@@ -125,7 +125,7 @@ link_button_qm = true
 linktitel = "News"
 titel = "EFFPAC: 24-MONTH OUTCOMES"
 [[slider]]
-bild = "/uploads/2020/08/09/bildschirmfoto-2020-08-09-um-22-05-33.png"
+bild = "/uploads/2020/08/10/sergeant_neu.jpg"
 content = "sergeant is a peripheral support catheter, designed to lead complex lesions procedures. It is intended to provide physicians with the needed support to cross all lesions. sergeants outstanding guidewire support is possible thanks to its braided catheter that allows exceptional pushability and torque capacity and tapered shaft that increases the support."
 content_hintergrundgrafik = ""
 link = "produkte/Periphere Gefäßtherapie/Supportkatheter/sergeant.md"
