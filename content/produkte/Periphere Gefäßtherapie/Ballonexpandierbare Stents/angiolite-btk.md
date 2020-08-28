@@ -19,6 +19,9 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+externer_link = "https://ivascular.global/ivascular-merlion-trial-6-month-outcomes-have-been-presented-at-viva-2020-late-breaking-trial-session-2/"
+titel = "MERLION Trial 6-month outcomes have been presented at VIVA 2020"
+[[bereiche.dateien]]
 beschreibung = "Publication"
 datei = "/uploads/2019/05/03/Endovascular Therapy for Erectile Dysfunction—Who Benefits Most_ Insights From a Single-Center Experience.pdf"
 titel = "Endovascular Therapy for Erectile Dysfunction"

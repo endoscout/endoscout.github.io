@@ -19,6 +19,9 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+externer_link = "https://ivascular.global/ivascular-merlion-trial-6-month-outcomes-have-been-presented-at-viva-2020-late-breaking-trial-session-2/"
+titel = "MERLION Trial 6-month outcomes VIVA 2020"
+[[bereiche.dateien]]
 beschreibung = "Radiology | Published Online: Jul 21 2020"
 externer_link = "https://pubs.rsna.org/doi/10.1148/radiol.2020201370"
 titel = "Two-year Review on Mortality and Morbidity after Femoropopliteal Drug-coated Balloon Angioplasty in the Randomized EffPac Trial"
