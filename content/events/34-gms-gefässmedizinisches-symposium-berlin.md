@@ -1,5 +1,5 @@
 +++
-monat = "2019-11-01T00:00:00+01:00"
+monat = 2019-11-01T00:00:00+01:00
 ort_und_zeitangabe = "<p>07. BIS 09. NOVEMBER 2019, BERLIN MARRIOTT HOTEL</p>"
 seo_description = ""
 startseite = false

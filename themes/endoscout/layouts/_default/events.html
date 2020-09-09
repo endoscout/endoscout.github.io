@@ -23,12 +23,12 @@
   </div>
   {{end}}
   <div class="months">
-  {{ range ($events.GroupByParam "monat") }}
-  <h2>{{partial "monthDE" (dateFormat "January 2006" .Key )}}</h2>
+  {{ range ($events.GroupByParamDate "monat" "2006-01") }}
+  {{if ne .Key "0001-01"}}
+  <h2>{{partial "monthDE" (dateFormat "January 2006" ( printf "%s-01" .Key ) )}}</h2>
   <div class="elements">
   {{ range .Pages }}
     {{if ne .Params.monat nil}}
-    {{if gt (dateFormat "2006-01" .Params.monat ) (now.Format "2006-01")}}
     <div class="event small" id="event_{{md5 .Params.title}}">
       <div class="titles">
         <div>
@@ -49,11 +49,11 @@
         {{.Content}}
       </div>
     </div>
-    {{end}}
+   
     {{end}}
   {{ end }}
   {{end}}
-
+  {{end}}
 </div>
 </div>
 </div>

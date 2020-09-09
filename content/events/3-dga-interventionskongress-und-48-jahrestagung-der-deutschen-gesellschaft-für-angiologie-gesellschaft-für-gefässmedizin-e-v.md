@@ -1,5 +1,5 @@
 +++
-monat = 2019-08-31T22:00:00Z
+monat = 2019-09-01T22:00:00Z
 ort_und_zeitangabe = "<p>12. – 14. September 2019 in Leipzig</p>"
 seo_description = ""
 startseite = false
