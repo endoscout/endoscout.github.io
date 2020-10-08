@@ -37,8 +37,8 @@ farbe = "rot:rgb(103,29,71)"
 beschriftung = "Heinz Kölble"
 content = "<p><strong>Heinz Kölble</strong><br>Geschäftsführer/Inhaber <br>0761-458948-0</p><p><a href=\"mailto:heinz.koelble@endoscout.de\" title=\"\">heinz.koelble@endoscout.de</a></p>"
 [[team.mitarbeiter]]
-beschriftung = "Marco Tränkle"
-content = "<p><strong>Marco Tränkle</strong><br>Kaufmännischer Leiter <br>0761-458948-13</p><p><a href=\"mailto:marco.traenkle@endoscout.de\" title=\"\">marco.traenkle@endoscout.de</a></p>"
+beschriftung = "Marco Kölble"
+content = "<p><strong>Marco Tränkle</strong><br>COO<br>0761-458948-13</p><p><a href=\"mailto:marco.koelble@endoscout.de\" title=\"\">marco.koelble@endoscout.de</a></p>"
 [[team.mitarbeiter]]
 beschriftung = "Ellen Körber"
 content = "<p><strong>Ellen Körber</strong><br>Customer Service <br>0761-458948-13</p><p><a href=\"mailto:ellen.koerber@endoscout.de\" title=\"\">ellen.koerber@endoscout.de</a></p>"
