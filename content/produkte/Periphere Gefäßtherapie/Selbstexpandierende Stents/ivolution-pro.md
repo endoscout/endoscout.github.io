@@ -6,11 +6,11 @@ bild = "/uploads/2019/05/03/iVolution_1.png"
 content = "<p>2nd. generation self-expanding peripheral stent system</p><p></p><p><strong>Advantages:</strong></p><ul><li><p>Triple sheath</p></li><li><p>Ergonomic handle</p></li><li><p>Innovative stent design</p></li><li><p>Perfect balance between adaptability and arterial support</p></li></ul>"
 icon = ""
 [[bereiche]]
-content = ""
+content = "<ul><li><p><strong>Triple sheath </strong>catheter</p></li><li><p>Usable Catheter length: <strong>80 cm &amp; 130 cm</strong></p></li><li><p>Guidewire compatibility: <strong>0.035”</strong></p></li><li><p><strong>6F introducer</strong> compatible</p></li></ul>"
 dateien = []
 titel = "Features"
 [[bereiche]]
-content = ""
+content = "<p><img src=\"/uploads/2021/01/05/ordering-info-ivolution-pro.jpg\"></p>"
 dateien = []
 titel = "Ordering information"
 [[bereiche]]
