@@ -1,11 +1,22 @@
 +++
-bereiche = []
 seo_description = ""
 title = "iVolution pro"
 [ueberblick]
 bild = "/uploads/2019/05/03/iVolution_1.png"
 content = "<p>2nd. generation self-expanding peripheral stent system</p><p></p><p><strong>Advantages:</strong></p><ul><li><p>Triple sheath</p></li><li><p>Ergonomic handle</p></li><li><p>Innovative stent design</p></li><li><p>Perfect balance between adaptability and arterial support</p></li></ul>"
 icon = ""
+[[bereiche]]
+content = ""
+dateien = []
+titel = "Features"
+[[bereiche]]
+content = ""
+dateien = []
+titel = "Ordering information"
+[[bereiche]]
+content = ""
+dateien = []
+titel = "Documents"
 [[icons]]
 interne_beschriftung = "Becken"
 [icons.icon]
