@@ -15,8 +15,12 @@ dateien = []
 titel = "Ordering information"
 [[bereiche]]
 content = ""
-dateien = []
 titel = "Documents"
+[[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2021/01/05/mp51261_brochure-eng_-ivolution-pro-screen_-ed0_oct-20.pdf"
+externer_link = ""
+titel = "Official brochure"
 [[icons]]
 interne_beschriftung = "Becken"
 [icons.icon]
