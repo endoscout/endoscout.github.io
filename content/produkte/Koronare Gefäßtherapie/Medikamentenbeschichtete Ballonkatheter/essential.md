@@ -19,8 +19,9 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
-beschreibung = "Presentation iVascular"
-titel = "essential in daily clinical practise"
+beschreibung = "Cardiovascular Revascularization Medicine | 2019"
+datei = "/uploads/2021/01/18/essential-isr-reprint_-eng.pdf"
+titel = "Angiography and optical coherence tomography assessment of the drug-coated balloon ESSENTIAL for the treatment of in-stent restenosis"
 [[bereiche.dateien]]
 beschreibung = "Presentation EuroPCR 2019"
 datei = "/uploads/2019/05/27/Essential ISR_ De_La_Torre_Hernandez_Jose_M_20190521_1530_Theatre_Bordeaux.pdf"
