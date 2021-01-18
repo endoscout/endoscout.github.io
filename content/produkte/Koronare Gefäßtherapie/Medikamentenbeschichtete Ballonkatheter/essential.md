@@ -27,6 +27,10 @@ beschreibung = "Presentation EuroPCR 2019"
 datei = "/uploads/2019/05/27/Essential ISR_ De_La_Torre_Hernandez_Jose_M_20190521_1530_Theatre_Bordeaux.pdf"
 titel = "Angiographic and optical coherence tomography assessment in follow up of a new paclitaxel-eluting balloon, with an ultrasonic nanotechnology drop dosage system, for the treatment of in-stent restenosis (J. de la Torre)"
 [[bereiche.dateien]]
+beschreibung = "Coron Artery Dis. | 2018"
+datei = "/uploads/2021/01/18/cor-artery-dis-2018_abellas-sequeiros_essential-trial.pdf"
+titel = "Percutaneous coronary intervention for treating de-novo lesions in small coronary vessels: initial experience with the Essential paclitaxel-coated balloon"
+[[bereiche.dateien]]
 beschreibung = ""
 datei = "/uploads/2019/05/02/MP51081_Brochure-ENG_essential-ed3-feb18_SCREEN.pdf"
 titel = "Official brochure"
