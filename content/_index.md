@@ -117,13 +117,13 @@ linktitel = "Produkte > Peripher"
 titel = "TINTIN Trial"
 [[slider]]
 bild = "/uploads/2019/06/24/EuroPCR_press_release_image.jpg"
-content = "EFFPAC RCT 24-month outstanding results with Luminor DCB have been revealed at EuroPCR 2019."
+content = "EFFPAC RCT 42-month outstanding results with Luminor DCB have been revealed at LINC 2021."
 content_hintergrundgrafik = ""
-link = "news/EFFPAC: 24-month outcomes.md"
+link = "news/EFFPAC: 42-month outcomes.md"
 link_button_beschriftung = "weiterlesen"
 link_button_qm = true
 linktitel = "News"
-titel = "EFFPAC: 24-MONTH OUTCOMES"
+titel = "EFFPAC: 42-MONTH OUTCOMES"
 [[slider]]
 bild = "/uploads/2020/08/10/sergeant_neu.jpg"
 content = "sergeant is a peripheral support catheter, designed to lead complex lesions procedures. It is intended to provide physicians with the needed support to cross all lesions. sergeants outstanding guidewire support is possible thanks to its braided catheter that allows exceptional pushability and torque capacity and tapered shaft that increases the support."
