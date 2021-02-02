@@ -19,6 +19,10 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+beschreibung = "Presentation LINC 2021"
+datei = "/uploads/2021/02/02/effpac-42mo-results_linc-2021-ut_14-01-21.pdf"
+titel = "EFFPAC trial: Effectiveness of Luminor DCB vs. POBA in the SFA: 42-month safety and efficacy outcomes (U. Teichgräber)"
+[[bereiche.dateien]]
 externer_link = "https://ivascular.global/ivascular-merlion-trial-6-month-outcomes-have-been-presented-at-viva-2020-late-breaking-trial-session-2/"
 titel = "MERLION Trial 6-month outcomes VIVA 2020"
 [[bereiche.dateien]]
