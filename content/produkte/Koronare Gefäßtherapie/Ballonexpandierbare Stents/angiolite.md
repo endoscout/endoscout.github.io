@@ -32,7 +32,7 @@ datei = "/uploads/2019/05/03/Catheter-Cardiovasc-Interv-2017_Puri_Anchor-36-mont
 titel = "Three- and 6-month optical coherence tomographic surveillance following percutaneous coronary intervention with the Angiolite® drug-eluting stent: The ANCHOR study"
 [[bereiche.dateien]]
 beschreibung = ""
-datei = "/uploads/2019/05/02/MP51111-Brochure-angiolite_ENG_SCREEN_-ed5_jan-´19-1.pdf"
+datei = "/uploads/2021/02/23/mp51111_-brochure-angiolite-screen_eng_ed7-sep-2020.pdf"
 titel = "Official brochure"
 [[bereiche.dateien]]
 beschreibung = ""
