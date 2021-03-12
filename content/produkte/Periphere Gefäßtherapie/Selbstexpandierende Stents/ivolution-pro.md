@@ -21,6 +21,11 @@ content = ""
 titel = "Documents"
 [[bereiche.dateien]]
 beschreibung = ""
+datei = "/uploads/2021/03/12/tintin-case-report.pdf"
+externer_link = ""
+titel = "Case Report: TINTIN trial"
+[[bereiche.dateien]]
+beschreibung = ""
 datei = "/uploads/2021/03/12/tintin-2-year-ppt-eng.pdf"
 externer_link = ""
 titel = "TINTIN Trial 2-year Follow Up"
