@@ -20,6 +20,11 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2021/03/12/tintin-2-year-ppt-eng.pdf"
+externer_link = ""
+titel = "T.I.N.T.I.N. trial : 2-Year data with the combination of Luminor DCB + iVolution stent in TASC C and D lesions"
+[[bereiche.dateien]]
 beschreibung = "Presentation LINC 2020"
 datei = ""
 externer_link = "https://www.endoscout.de/uploads/2020/02/18/1727_Koen_Deloose_28_01_2020_Room_1_-_Main_Arena_1.pdf"
