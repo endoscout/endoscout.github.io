@@ -19,6 +19,9 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+datei = "/uploads/2021/03/12/merlion-1-year-ppt-eng.pdf"
+titel = "MERLION Trial 1-year outcomes"
+[[bereiche.dateien]]
 beschreibung = "Presentation LINC 2021"
 datei = "/uploads/2021/02/02/effpac-42mo-results_linc-2021-ut_14-01-21.pdf"
 titel = "EFFPAC trial: Effectiveness of Luminor DCB vs. POBA in the SFA: 42-month safety and efficacy outcomes (U. Teichgräber)"
