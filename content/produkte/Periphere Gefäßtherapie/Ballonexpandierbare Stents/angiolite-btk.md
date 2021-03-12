@@ -19,6 +19,9 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+datei = "/uploads/2021/03/12/merlion-1-year-ppt-eng.pdf"
+titel = "MERLION Trial 1-year outcomes"
+[[bereiche.dateien]]
 externer_link = "https://ivascular.global/ivascular-merlion-trial-6-month-outcomes-have-been-presented-at-viva-2020-late-breaking-trial-session-2/"
 titel = "MERLION Trial 6-month outcomes have been presented at VIVA 2020"
 [[bereiche.dateien]]
