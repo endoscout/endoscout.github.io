@@ -21,6 +21,11 @@ content = ""
 titel = "Documents"
 [[bereiche.dateien]]
 beschreibung = ""
+datei = "/uploads/2021/03/12/tintin-2-year-ppt-eng.pdf"
+externer_link = ""
+titel = "TINTIN Trial 2-year Follow Up"
+[[bereiche.dateien]]
+beschreibung = ""
 datei = "/uploads/2021/01/05/mp51261_brochure-eng_-ivolution-pro-screen_-ed0_oct-20.pdf"
 externer_link = ""
 titel = "Official brochure"
