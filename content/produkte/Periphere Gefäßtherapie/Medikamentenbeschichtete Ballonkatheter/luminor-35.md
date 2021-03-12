@@ -19,6 +19,8 @@ titel = "Ordering information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
+titel = "Case Report: Luminor BTK Case [Dr. Ferraresi]"
+[[bereiche.dateien]]
 datei = "/uploads/2021/03/12/merlion-1-year-ppt-eng.pdf"
 titel = "MERLION Trial 1-year outcomes"
 [[bereiche.dateien]]
