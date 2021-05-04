@@ -113,7 +113,7 @@ content_hintergrundgrafik = ""
 link = ""
 link_button_beschriftung = ""
 link_button_qm = false
-linktitel = ""
+linktitel = "Produkte > Peripher"
 titel = "iCOVER HAS RECEIVED CE-MARK!"
 [[slider]]
 bild = "/uploads/2020/03/23/TINTIN-TRIAL-IVASCULAR-2020.jpg"
