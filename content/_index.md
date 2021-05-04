@@ -107,14 +107,14 @@ titel = "Koronar"
 [produktbereiche.titel.textfarbe]
 farbe = "rot:rgb(103,29,71)"
 [[slider]]
-bild = ""
+bild = "/uploads/2021/05/04/bildschirmfoto-2021-05-04-um-21-52-38.png"
 content = ""
 content_hintergrundgrafik = ""
 link = ""
 link_button_beschriftung = ""
 link_button_qm = false
 linktitel = ""
-titel = "ICOVER HAS RECEIVED CE-MARK!"
+titel = "iCOVER HAS RECEIVED CE-MARK!"
 [[slider]]
 bild = "/uploads/2020/03/23/TINTIN-TRIAL-IVASCULAR-2020.jpg"
 content = "TINTIN is a physician initiated, prospective, single arm multicenter trial, that investigates the safety and efficacy of the treatment with luminor DCB and iVolution self-expanding stent in TASC C and D femoropopliteal lesions.\n\nTINTIN 1-year outcomes show a Primary Patency of 90.5%, freedom from TLR of 94.4%. Safety has been proved with 0 device related deaths."
