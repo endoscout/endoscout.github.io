@@ -108,7 +108,7 @@ titel = "Koronar"
 farbe = "rot:rgb(103,29,71)"
 [[slider]]
 bild = "/uploads/2021/05/04/bildschirmfoto-2021-05-04-um-21-52-38.png"
-content = ""
+content = "iVascular has announced that the company has received CE-mark for their new balloon-expandable ePTFE covered stent!"
 content_hintergrundgrafik = ""
 link = ""
 link_button_beschriftung = ""
