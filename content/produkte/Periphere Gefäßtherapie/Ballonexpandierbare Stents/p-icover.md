@@ -5,7 +5,7 @@ seo_description = ""
 title = "[P]iCover"
 [ueberblick]
 bild = ""
-content = "<p>Peripheral stent system</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>High pushability</p></li><li><p>Fastest balloon deflation</p></li><li><p>Enhanced trackability due to restorer's unique, flexible strut design</p></li><li><p>Increased crossability in difficult lesions</p></li></ul>"
+content = "<p>Peripheral balloon expandable PTFE covered stent system</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>ePTFE covered Stent with high flexibility</p></li><li><p>Best in class post-expansion capacity (≥2mm)</p></li><li><p>Enhanced visibility (Unique stent with radiopaque markers)</p></li><li><p>Excellent navigability and easy to implant</p></li></ul>"
 icon = ""
 [[icons]]
 interne_beschriftung = "Niere"
