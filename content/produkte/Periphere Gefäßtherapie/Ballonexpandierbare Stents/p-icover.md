@@ -16,8 +16,12 @@ dateien = []
 titel = "Ordering Information"
 [[bereiche]]
 content = ""
-dateien = []
 titel = "Documents"
+[[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2021/07/15/icover-brochure-eng.pdf"
+externer_link = ""
+titel = "Official brochure"
 [[icons]]
 interne_beschriftung = "Niere"
 [icons.icon]
