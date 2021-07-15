@@ -19,14 +19,19 @@ content = ""
 titel = "Documents"
 [[bereiche.dateien]]
 beschreibung = ""
-datei = "/uploads/2021/07/15/ifu-ic0740-137-101.pdf"
+datei = "/uploads/2021/07/15/04-alvimedica-simposium-linc-2020-scheinert.pdf"
 externer_link = ""
-titel = "Instructions for use (IFU)"
+titel = "ILLUMINA Study 2-year-results (Prof. D. Scheinert)"
 [[bereiche.dateien]]
 beschreibung = ""
 datei = "/uploads/2021/07/15/broch_nitides_2021-low-resolution.pdf"
 externer_link = ""
 titel = "Official brochure"
+[[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2021/07/15/ifu-ic0740-137-101.pdf"
+externer_link = ""
+titel = "Instructions for use (IFU)"
 [[icons]]
 interne_beschriftung = "Oberschenkel"
 [icons.icon]
