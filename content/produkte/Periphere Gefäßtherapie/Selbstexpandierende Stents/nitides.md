@@ -19,6 +19,11 @@ content = ""
 titel = "Documents"
 [[bereiche.dateien]]
 beschreibung = ""
+datei = "/uploads/2021/07/15/ifu-ic0740-137-101.pdf"
+externer_link = ""
+titel = "Instructions for use (IFU)"
+[[bereiche.dateien]]
+beschreibung = ""
 datei = "/uploads/2021/07/15/broch_nitides_2021-low-resolution.pdf"
 externer_link = ""
 titel = "Official brochure"
