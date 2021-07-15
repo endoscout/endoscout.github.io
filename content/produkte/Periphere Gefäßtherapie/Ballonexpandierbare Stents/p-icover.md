@@ -12,7 +12,11 @@ dateien = []
 titel = "Features"
 [[bereiche]]
 content = ""
-dateien = []
+titel = "Ordering Information"
+[[bereiche.dateien]]
+beschreibung = ""
+datei = "/uploads/2021/07/15/ordering-info-icover.jpg"
+externer_link = ""
 titel = "Ordering Information"
 [[bereiche]]
 content = ""
