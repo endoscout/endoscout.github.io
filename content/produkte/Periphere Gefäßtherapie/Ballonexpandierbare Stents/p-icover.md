@@ -11,12 +11,8 @@ content = "<ul><li><p><strong>Over the wire</strong> catheter (OTW)</p></li><li>
 dateien = []
 titel = "Features"
 [[bereiche]]
-content = ""
-titel = "Ordering Information"
-[[bereiche.dateien]]
-beschreibung = ""
-datei = "/uploads/2021/07/15/ordering-info-icover.jpg"
-externer_link = ""
+content = "<p><img src=\"/uploads/2021/07/15/ordering-info-icover.jpg\"></p>"
+dateien = []
 titel = "Ordering Information"
 [[bereiche]]
 content = ""
