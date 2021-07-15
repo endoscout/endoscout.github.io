@@ -19,6 +19,11 @@ content = ""
 titel = "Documents"
 [[bereiche.dateien]]
 beschreibung = ""
+datei = "/uploads/2021/07/15/ifu_icover-screen.pdf"
+externer_link = ""
+titel = "Instructions for use (IFU)"
+[[bereiche.dateien]]
+beschreibung = ""
 datei = "/uploads/2021/07/15/icover-brochure-eng.pdf"
 externer_link = ""
 titel = "Official brochure"
