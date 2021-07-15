@@ -11,7 +11,7 @@ content = "<ul><li><p><strong>Over The Wire</strong> system (OTW)</p></li><li><p
 dateien = []
 titel = "Features"
 [[bereiche]]
-content = ""
+content = "<p><img src=\"/uploads/2021/07/15/ordering-information-nitides.jpg\"></p>"
 dateien = []
 titel = "Ordering information"
 [[bereiche]]
