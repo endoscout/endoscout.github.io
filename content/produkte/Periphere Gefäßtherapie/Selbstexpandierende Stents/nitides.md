@@ -1,5 +1,4 @@
 +++
-draft = true
 seo_description = ""
 title = "NitiDES"
 [ueberblick]
@@ -21,7 +20,7 @@ titel = "Documents"
 beschreibung = ""
 datei = "/uploads/2021/07/15/04-alvimedica-simposium-linc-2020-scheinert.pdf"
 externer_link = ""
-titel = "ILLUMINA Study 2-year-results (Prof. D. Scheinert)"
+titel = "The ILLUMINA study: 2-year-results (D. Scheinert)"
 [[bereiche.dateien]]
 beschreibung = ""
 datei = "/uploads/2021/07/15/broch_nitides_2021-low-resolution.pdf"
