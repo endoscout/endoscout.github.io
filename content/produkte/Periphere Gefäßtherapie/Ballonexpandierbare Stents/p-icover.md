@@ -9,7 +9,7 @@ bild = "/uploads/2021/07/16/icover_produktbild.jpg"
 content = "<p>Peripheral balloon expandable PTFE covered stent system</p><p><br><strong>Advantages:</strong></p><ul><li><p>ePTFE covered Stent with high flexibility</p></li><li><p>Best in class post-expansion capacity (≥2mm)</p></li><li><p>Enhanced visibility (Unique stent with radiopaque markers)</p></li><li><p>Excellent navigability and easy to implant</p></li></ul>"
 icon = ""
 [[bereiche]]
-content = "<ul><li><p><strong>Over the wire</strong> catheter (OTW)</p></li><li><p>Guidewire compatibility: <strong>0.035”</strong></p></li><li><p>Catheter length: <strong>80 and 140 cm</strong></p></li><li><p><strong>Maximum</strong> post expansion:</p><p>• Ø 5-8mm≤10mm</p><p>• Ø 9-10mm≤ 12mm</p></li><li><p><strong>3 radiopaque markers </strong>at each stent end</p></li><li><p>Introducer compatibility<strong> 6F </strong>(up to Ø8mm, L 17mm), <strong>7F</strong></p></li></ul>"
+content = "<ul><li><p><strong>Over the wire</strong> catheter (OTW)</p></li><li><p>Guidewire compatibility: <strong>0.035”</strong></p></li><li><p>Catheter length: <strong>80 and 140 cm</strong></p></li><li><p><strong>Maximum</strong> post expansion:<br>- Ø 5-8mm≤10mm<br>- Ø 9-10mm≤ 12mm</p></li><li><p><strong>3 radiopaque markers </strong>at each stent end</p></li><li><p>Introducer compatibility<strong> 6F </strong>(up to Ø8mm, L 17mm), <strong>7F</strong></p></li></ul>"
 dateien = []
 titel = "Features"
 [[bereiche]]
