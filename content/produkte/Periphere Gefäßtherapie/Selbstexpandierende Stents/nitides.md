@@ -1,6 +1,9 @@
 +++
 seo_description = ""
 title = "NitiDES"
+[menu.main]
+parent = "[P]Selbstexpandierende Stents"
+weight = 5
 [ueberblick]
 bild = ""
 content = "<p>Unique Polymer-free Amphilimus™ eluting stent for SFA</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>SIROLIMUS eluting stent</p></li><li><p>Controlled and directed drug elution as a result of the Abluminal Reservoir Technology</p></li><li><p>Optimal efficacy achieved through an homogeneous drug distribution and improved bioavailability</p></li><li><p>Proven bio and haemo-compatibility enabled by the Bio Inducer Surface coating</p></li></ul>"
