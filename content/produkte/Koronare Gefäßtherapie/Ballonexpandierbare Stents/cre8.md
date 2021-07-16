@@ -2,7 +2,7 @@
 title = "Cre8"
 [menu.main]
 parent = "[K]Ballonexpandierbare Stents"
-weight = 13
+weight = 4
 [ueberblick]
 bild = "/uploads/2019/05/08/cre8_endoscout_proudktbild-1.png"
 content = "<p>Sirolimus eluting balloon expandable coronary stent</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>Controlled and directed drug elution as a result of the Abluminal Reservoir Technology</p></li><li><p>Optimal efficacy achieved through an homogeneous drug distribution and improved bioavailability due to the proprietary Amphilimus™ formulation</p></li><li><p>Proven bio and haemo-compatibility enabled by the Bio Inducer Surface coating</p></li></ul>"

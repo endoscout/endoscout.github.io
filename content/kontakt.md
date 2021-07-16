@@ -16,7 +16,7 @@ linkbeschriftung = "E-Mail"
 [link.linkfarbe]
 linkfarbe = "weiss"
 [menu.main]
-weight = 20
+weight = 6
 [menu.mobil]
 weight = 6
 [titel]

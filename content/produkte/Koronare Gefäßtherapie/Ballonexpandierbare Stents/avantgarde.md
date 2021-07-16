@@ -2,7 +2,7 @@
 title = "Avantgarde"
 [menu.main]
 parent = "[K]Ballonexpandierbare Stents"
-weight = 9
+weight = 3
 [ueberblick]
 bild = "/uploads/2019/05/08/avantgarde.png"
 content = "<p>Balloon expandable coronary stent</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>Proven bio and haemo-compatibility enabled by the Bio Inducer Surface coating</p></li><li><p>Newly engineered stent struts improve blood flow dynamics</p></li><li><p>Platinum markers at stent edges allow unmatched visualization and placement accuracy</p></li></ul>"

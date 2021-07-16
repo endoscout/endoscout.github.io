@@ -2,7 +2,7 @@
 title = "[P]Inperia Advance"
 [menu.main]
 parent = "[P]Ballonexpandierbare Stents"
-weight = 3
+weight = 4
 [ueberblick]
 bild = "/uploads/2019/05/08/inperia_endoscout_proudktbild.png"
 content = "<p>Balloon expandable stent for below-the-knee vessels</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>Proven bio and haemo-compatibility enabled by the Bio Inducer Surface coating</p></li><li><p>Newly engineered stent struts improve blood flow dynamics</p></li><li><p>Platinum markers at stent edges allow unmatched visualization and placement accuracy</p></li></ul>"

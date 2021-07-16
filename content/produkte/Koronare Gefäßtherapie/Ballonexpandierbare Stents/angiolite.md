@@ -2,7 +2,7 @@
 title = "Angiolite"
 [menu.main]
 parent = "[K]Ballonexpandierbare Stents"
-weight = 2
+weight = 1
 [ueberblick]
 bild = "/uploads/2019/05/06/angiolite_BTK_small.png"
 content = "<p>Sirolimus-eluting coronary stent system</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>Ultra-thin stent struts</p></li><li><p>Proven drug release efficacy</p></li><li><p>Outstanding arterial support</p></li><li><p>Enhanced trackability</p></li></ul>"

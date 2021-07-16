@@ -12,6 +12,6 @@ farbe = "rot:rgb(103,29,71)"
 farbe = "orange:rgb(243,146,0)"
 [menu.main]
 parent = "Periphere Gefäßtherapie"
-weight = 7
+weight = 2
 
 +++

@@ -4,7 +4,7 @@ layout = "news"
 seo_description = ""
 title = "News"
 [menu.main]
-weight = 19
+weight = 5
 [menu.mobil]
 weight = 2
 

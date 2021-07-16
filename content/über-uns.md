@@ -21,7 +21,7 @@ untertitel = "Endoscout"
 [endoscout_infoblock.titel.textfarbe]
 farbe = "orange:rgb(243,146,0)"
 [menu.main]
-weight = 12
+weight = 3
 [menu.mobil]
 weight = 5
 [team]

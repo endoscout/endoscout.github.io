@@ -2,7 +2,7 @@
 title = "[P]Radix2"
 [menu.main]
 parent = "[P]Ballonexpandierbare Stents"
-weight = 5
+weight = 6
 [ueberblick]
 bild = "/uploads/2019/05/08/radix_endoscout_proudktbild.png"
 content = "<p>Renal balloon expandable stent</p><p><br><strong>Advantages:</strong></p><ul><li><p>Excellent scaffolding proximally and good flexibility distally thanks to the unique progressive closed cell design</p></li><li><p>Proven biocompatibility enabled by the CarbofilmTM coating, accelerating the rate of endothelization and strut coverage, reducing thrombogenity</p></li><li><p>Platinum markers and no stent foreshortening design allow unmatched placement accuracy and visualization</p></li></ul>"

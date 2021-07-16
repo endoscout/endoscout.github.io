@@ -4,7 +4,7 @@ layout = "mediathek"
 seo_description = "Mediathek - Produktinformationen und Publikationen für die KORONARE GEFÄSSTHERAPIE und PERIPHERE GEFÄSSTHERAPIE"
 title = "Mediathek"
 [menu.main]
-weight = 15
+weight = 4
 [menu.mobil]
 weight = 4
 [[bereiche]]

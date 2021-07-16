@@ -2,7 +2,7 @@
 title = "[P]Isthmus Logic"
 [menu.main]
 parent = "[P]Ballonexpandierbare Stents"
-weight = 4
+weight = 5
 [ueberblick]
 bild = "/uploads/2019/05/08/isthmus logic-1_1.png"
 content = "<p>Balloon expandable stent for iliac vessels</p><p><br><strong>Advantages:</strong></p><ul><li><p>Proven bio and haemo-compatibility enabled by the Bio Inducer Surface coating, which accelerates the rate of endothelization and reduces thrombogenicity</p></li><li><p>Uniform radial force and excellent scaffolding with an unique cell architecture</p></li><li><p>Platinum markers and no stent foreshortening allow unmatched placement accuracy and visualization</p></li></ul>"

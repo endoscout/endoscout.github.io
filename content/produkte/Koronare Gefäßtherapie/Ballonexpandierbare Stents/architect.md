@@ -2,7 +2,7 @@
 title = "Architect"
 [menu.main]
 parent = "[K]Ballonexpandierbare Stents"
-weight = 6
+weight = 2
 [ueberblick]
 bild = "/uploads/2019/05/14/architect.jpg"
 content = "<p>Balloon expandable coronary stent system</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>Ultra-thin stent struts</p></li><li><p>Inventive stent design</p></li><li><p>Highest radial force with minimal recoil</p></li><li><p>Lowest crossing profile</p></li></ul>"

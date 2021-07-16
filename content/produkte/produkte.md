@@ -14,7 +14,7 @@ farbe = "rot:rgb(103,29,71)"
 [linkfarbe]
 linkfarbe = "rot"
 [menu.main]
-weight = 8
+weight = 2
 [menu.mobil]
 weight = 1
 [[bereiche]]

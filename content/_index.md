@@ -63,7 +63,7 @@ untertitel = "Endoscout"
 [infoblock_endoscout.titel.textfarbe]
 farbe = "orange_hell:rgb(248,170,35)"
 [menu.main]
-weight = 4
+weight = 1
 [[news]]
 linkbeschriftung = "weiterlesen"
 newsitem = "news/Analysis of German Insurance Data Shows No Long-Term Increased Mortality With Paclitaxel-Based Devices.md"

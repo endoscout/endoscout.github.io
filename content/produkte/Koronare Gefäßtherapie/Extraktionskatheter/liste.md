@@ -13,6 +13,6 @@ farbe = "orange:rgb(243,146,0)"
 farbe = "rot:rgb(103,29,71)"
 [menu.main]
 parent = "Koronare Gefäßtherapie"
-weight = 3
+weight = 2
 
 +++
