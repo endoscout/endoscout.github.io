@@ -5,7 +5,7 @@ title = "NitiDES"
 parent = "[P]Selbstexpandierende Stents"
 weight = 5
 [ueberblick]
-bild = "/uploads/2021/07/16/nitides_produktbild.jpg"
+bild = "/uploads/2021/07/21/nitides_main.jpg"
 content = "<p>Unique Polymer-free Amphilimus™ eluting stent for SFA</p><p></p><p><br><strong>Advantages:</strong></p><ul><li><p>SIROLIMUS eluting stent</p></li><li><p>Controlled and directed drug elution as a result of the Abluminal Reservoir Technology</p></li><li><p>Optimal efficacy achieved through an homogeneous drug distribution and improved bioavailability</p></li><li><p>Proven bio and haemo-compatibility enabled by the Bio Inducer Surface coating</p></li></ul>"
 icon = ""
 [[bereiche]]
