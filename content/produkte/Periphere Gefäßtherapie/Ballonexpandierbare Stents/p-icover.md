@@ -21,6 +21,11 @@ content = ""
 titel = "Documents"
 [[bereiche.dateien]]
 beschreibung = ""
+datei = "/uploads/2021/10/22/evt_icover-article-2021.pdf"
+externer_link = ""
+titel = "New Generation BX Covered Stent: Visibility and Conformability Were Needed"
+[[bereiche.dateien]]
+beschreibung = ""
 datei = "/uploads/2021/07/15/ifu_icover-screen.pdf"
 externer_link = ""
 titel = "Instructions for use (IFU)"
