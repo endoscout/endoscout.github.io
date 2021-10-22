@@ -20,7 +20,7 @@ titel = "Ordering Information"
 content = ""
 titel = "Documents"
 [[bereiche.dateien]]
-beschreibung = ""
+beschreibung = "ENDOVASCULAR TODAY EUROPE 2021 VOLUME 9, NO. 6"
 datei = "/uploads/2021/10/22/evt_icover-article-2021.pdf"
 externer_link = ""
 titel = "New Generation BX Covered Stent: Visibility and Conformability Were Needed"
