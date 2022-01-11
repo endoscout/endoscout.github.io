@@ -45,6 +45,9 @@ content = "<p><strong>Ellen Körber</strong><br>Customer Service <br>0761-458948
 [[team.mitarbeiter]]
 beschriftung = "Lukas Roth"
 content = "<p><strong>Lukas Roth</strong><br>Customer Service <br>0761-458948-12</p><p><a href=\"mailto:lukas.roth@endoscout.de\" title=\"\">lukas.roth@endoscout.de</a></p>"
+[[team.mitarbeiter]]
+beschriftung = "Ralf Hawa"
+content = ""
 [[geschaeftsbereiche]]
 logos = []
 titel_lang = "[endocare]Geschäftsbereiche endoscout"
