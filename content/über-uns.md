@@ -38,13 +38,13 @@ beschriftung = "Marco Kölble"
 content = "<p><strong>Marco Kölble</strong><br>Geschäftsführer <br>0761-458948-0</p><p><a href=\"mailto:marco.koelble@endoscout.de\" title=\"\">marco.koelble@endoscout.de</a></p>"
 [[team.mitarbeiter]]
 beschriftung = "Ralf Beck"
-content = "<p><strong>Dr. Ralf Beck</strong><br>Commercial Director DACH<br>0761-458948-0</p><p><a href=\"ralf.beck@endoscout.de\" title=\"\">ralf.beck@endoscout.de</a></p>"
+content = "<p><strong>Dr. Ralf Beck</strong><br>Commercial Director DACH<br>0761-458948-0</p><p><a href=\"mailto:ralf.beck@endoscout.de\" title=\"\">ralf.beck@endoscout.de</a></p>"
 [[team.mitarbeiter]]
 beschriftung = "Ellen Körber"
 content = "<p><strong>Ellen Körber</strong><br>Customer Service <br>0761-458948-13</p><p><a href=\"mailto:ellen.koerber@endoscout.de\" title=\"\">ellen.koerber@endoscout.de</a></p>"
 [[team.mitarbeiter]]
-beschriftung = "Jan Kölble"
-content = "<p><strong>Jan Kölble</strong><br>Customer Service <br>0761-458948-12</p><p>j<a href=\"mailto:an.koelble@endoscout.de\" title=\"\">an.koelble@endoscout.de</a></p>"
+beschriftung = "Lukas Roth"
+content = "<p><strong>Lukas Roth</strong><br>Customer Service <br>0761-458948-12</p><p><a href=\"mailto:lukas.roth@endoscout.de\" title=\"\">lukas.roth@endoscout.de</a></p>"
 [[geschaeftsbereiche]]
 logos = []
 titel_lang = "[endocare]Geschäftsbereiche endoscout"
