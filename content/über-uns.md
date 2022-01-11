@@ -47,7 +47,7 @@ beschriftung = "Lukas Roth"
 content = "<p><strong>Lukas Roth</strong><br>Customer Service <br>0761-458948-12</p><p><a href=\"mailto:lukas.roth@endoscout.de\" title=\"\">lukas.roth@endoscout.de</a></p>"
 [[team.mitarbeiter]]
 beschriftung = "Ralf Hawa"
-content = ""
+content = "<p><strong>Ralf Hawa</strong><br>Customer Service <br>0761-458948-12</p><p><a href=\"mailto:ralf.hawa@endoscout.de\" title=\"\">ralf.hawa@endoscout.de</a></p>"
 [[geschaeftsbereiche]]
 logos = []
 titel_lang = "[endocare]Geschäftsbereiche endoscout"
