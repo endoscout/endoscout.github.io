@@ -17,7 +17,7 @@ Tel.: +49-761-458948-0
 Fax.: +49-761-458948-99  
 E-Mail: [info@endoscout.de](mailto:info@endoscout.de)
 
-Geschäftsführer: Heinz Kölble  
+Geschäftsführer: Marco Kölble  
 HRB 705617, Amtsgericht Freiburg i.Br.  
 USt-ID.: DE272868118
 
